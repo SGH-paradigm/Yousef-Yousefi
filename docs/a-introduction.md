@@ -1,6 +1,6 @@
 ---
 title: Mathematics Introduction
-nav_order: 2
+nav_order: 8
 parent: Mathematics Section (A)
 ---
 
