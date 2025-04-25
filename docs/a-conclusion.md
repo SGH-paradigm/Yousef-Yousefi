@@ -1,6 +1,6 @@
 ---
 title: Mathematics Conclusion
-nav_order: 7
+nav_order: 13
 parent: Mathematics Section (A)
 ---
 
