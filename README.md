@@ -1,1 +1,1 @@
-# Yousef-Yousefi
+# Science Generalization Hypothesis (SGH)
