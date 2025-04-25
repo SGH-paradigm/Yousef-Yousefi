@@ -1,6 +1,6 @@
 ---
 title: Mathematics Preface
-nav_order: 1
+nav_order: 7
 parent: Mathematics Section (A)
 ---
 
