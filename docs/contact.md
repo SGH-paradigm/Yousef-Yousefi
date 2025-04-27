@@ -1,9 +1,3 @@
----
-layout: default
-title: Contact
-nav_order: 43
----
-
 # Contact
 
 Feel free to reach out with any questions or inquiries. You can contact me through the following platforms:
