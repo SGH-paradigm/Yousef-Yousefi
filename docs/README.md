@@ -4,5 +4,5 @@
 Welcome to my book exploring philosophy, mathematics, physics, and results. This book presents my ideas and findings across these fields.
 
 Navigate the sections using the [Table of Contents](SUMMARY.md).
-
+Navigate the sections using the [contact](contact.md).
 [Replace this placeholder with your General Introduction text.]
