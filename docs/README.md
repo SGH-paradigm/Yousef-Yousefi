@@ -5,7 +5,6 @@ Welcome to my book exploring philosophy, mathematics, physics, and results. This
 
 Navigate the sections using the [Table of Contents](SUMMARY.md).
 
-
 Navigate the sections using the [contacts](contact.md).
 
 Navigate the sections using the [Support the Mission](Support the Mission.md).
