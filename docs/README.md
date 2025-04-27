@@ -7,4 +7,5 @@ Navigate the sections using the [Table of Contents](SUMMARY.md).
 
 
 Navigate the sections using the [contacts](contact.md).
+
 [Replace this placeholder with your General Introduction text.]
