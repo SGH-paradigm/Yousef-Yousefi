@@ -1,9 +1,3 @@
----
-layout: page
-title: Feedback
-permalink: /feedback/
----
-
 # Feedback and Comments
 
 We welcome your thoughts, questions, and suggestions!  
