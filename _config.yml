@@ -1,7 +1,25 @@
-theme: jekyll-theme-cayman
-title: "Yousef Yousefi's Project"
-description: "A brief description of your project."
+title: "Yousef Yousefi"
+description: "Official Scientific Website"
+theme: just-the-docs
 
-header_pages:
-  - index.md
-  - about.md
+url: "https://sgh-paradigm.github.io/Yousef-Yousefi"
+
+# Define the navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Contact"
+    url: /contact
+  - title: "License"
+    url: /license
+  - title: "Feedback"
+    url: /feedback
+
+# (optional) Enable search
+search_enabled: true
+
+# (optional) Set favicon and logo (if you have)
+# favicon_ico: "/assets/favicon.ico"
+# logo: "/assets/logo.png"
