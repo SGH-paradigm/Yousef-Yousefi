@@ -3,19 +3,18 @@
 We welcome your thoughts, questions, and suggestions!  
 Feel free to leave a comment below.
 
-<div id="giscus_container"></div>
-
+<!-- Giscus comment box -->
 <script src="https://giscus.app/client.js"
-        data-repo="SGH-paradigm/book"
-        data-repo-id="YOUR_REPO_ID"
-        data-category="General"
-        data-category-id="YOUR_CATEGORY_ID"
+        data-repo="SGH-paradigm/Yousef-Yousefi"
+        data-repo-id="R_kgDOOfp8Eg"
+        data-category="Q&A"
+        data-category-id="DIC_kwDOOfp8Es4CpvMY"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
-        data-theme="light"
+        data-theme="gruvbox_light"
         data-lang="en"
         crossorigin="anonymous"
         async>
