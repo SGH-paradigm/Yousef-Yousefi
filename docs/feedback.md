@@ -6,7 +6,8 @@ permalink: /feedback/
 
 # Feedback and Comments
 
-We welcome your thoughts, questions, and suggestions!
+We welcome your thoughts, questions, and suggestions!  
+Feel free to leave a comment below.
 
 <div id="giscus_container"></div>
 
