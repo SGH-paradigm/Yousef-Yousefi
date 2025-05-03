@@ -1,8 +1,7 @@
+theme: jekyll-theme-cayman
 title: "Yousef Yousefi's Project"
 description: "A brief description of your project."
-theme: jekyll-theme-slate
 
 header_pages:
   - index.md
   - about.md
-  - contact.md
