@@ -1,9 +1,3 @@
----
-layout: page
-title: Contact
-permalink: /contact/
----
-
 # 📬 Contact
 
 Feel free to reach out with any questions or inquiries!  
