@@ -12,7 +12,7 @@ Navigate the sections using the [feedback](feedback.md).
 
 Navigate the sections using the [license](license.md).
 
-# Yousef Yousefi's Book: General Introduction
+# Science Generalization Hypothesis (SGH) Introduction
 
 
 [Replace this placeholder with your General Introduction text.]
