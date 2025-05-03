@@ -1,5 +1,4 @@
 # Science Generalization Hypothesis (SGH)
-# Yousef Yousefi's Book: General Introduction
 
 Welcome to my book exploring philosophy, mathematics, physics, and results. This book presents my ideas and findings across these fields.
 
@@ -12,5 +11,8 @@ Navigate the sections using the [Support the Mission](Support the Mission.md).
 Navigate the sections using the [feedback](feedback.md).
 
 Navigate the sections using the [license](license.md).
+
+# Yousef Yousefi's Book: General Introduction
+
 
 [Replace this placeholder with your General Introduction text.]
