@@ -9,8 +9,8 @@ Navigate the sections using the [contacts](contact.md).
 
 Navigate the sections using the [Support the Mission](Support the Mission.md).
 
-Navigate the sections using the [feedback.md](feedback.md).
+Navigate the sections using the [feedback](feedback.md).
 
-Navigate the sections using the [license.md](license.md).
+Navigate the sections using the [license](license.md).
 
 [Replace this placeholder with your General Introduction text.]
