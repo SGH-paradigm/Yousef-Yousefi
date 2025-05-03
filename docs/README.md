@@ -4,7 +4,13 @@
 Welcome to my book exploring philosophy, mathematics, physics, and results. This book presents my ideas and findings across these fields.
 
 Navigate the sections using the [Table of Contents](SUMMARY.md).
+
 Navigate the sections using the [contacts](contact.md).
+
 Navigate the sections using the [Support the Mission](Support the Mission.md).
+
 Navigate the sections using the [feedback.md](feedback.md).
+
+Navigate the sections using the [license.md](license.md).
+
 [Replace this placeholder with your General Introduction text.]
