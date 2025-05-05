@@ -6,16 +6,46 @@ description: "Welcome to the official website of Yousef Yousefi."
 permalink: /
 ---
 
-# Welcome to Yousef Yousefi's Website
+# 👋 Welcome to My Scientific World
 
-Hello!  
-This is the official website of **Yousef Yousefi**, where you can find information about my research, publications, and projects.
+Hello, I am **Yousef Yousefi** — researcher, theorist, and lifelong explorer of the universe's deep structures.
 
-Feel free to explore the following pages:
+This website showcases my decades of scientific work in:
 
-- [About Me](about)
-- [Contact](contact)
-
-Stay connected for more updates and contributions!
+- 🧠 **Philosophy** — foundational theories on knowledge and existence.
+- 🔢 **Mathematics** — new methods, structures, and generalizations.
+- 🌌 **Physics** — unified frameworks connecting fields and forces.
+- 📚 **Scientific Generalization** — connecting the dots across disciplines.
 
 ---
+
+## 📖 Current Highlights
+
+- **New Theory:** Scale-Dependent Dimensionality and Field Unification
+- **Mathematical Innovation:** 3D Quantum Mechanics with Pauli-Based Coordinates
+- **Philosophy of Science:** Entangled Foundations of Mathematics and Physics
+
+You can access the full content through the navigation bar:  
+👉 [About Me](about/) | [Contact](contact/)
+
+---
+
+## 📢 Latest News
+> 📜 My official papers are being simultaneously submitted to:
+> - [arXiv.org](https://arxiv.org)
+> - [ResearchGate](https://www.researchgate.net/profile/Yousef-Yousefi-7)
+> - [This Website](https://sgh-paradigm.github.io/Yousef-Yousefi/)
+
+Stay tuned for updates and new breakthroughs!
+
+---
+
+## 📬 Get in Touch
+
+Feel free to reach out for discussions, collaborations, or questions.  
+You can find all contact options on the [Contact](contact/) page.
+
+---
+
+Thank you for visiting!  
+🌟 *Knowledge grows by sharing and expanding ideas.* 🌟
