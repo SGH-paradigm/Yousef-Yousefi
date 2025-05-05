@@ -1,9 +1,21 @@
 ---
 layout: default
-title: Home
+title: "Home"
+nav_order: 1
+description: "Welcome to the official website of Yousef Yousefi."
+permalink: /
 ---
 
-# Welcome to My Website
+# Welcome to Yousef Yousefi's Website
 
-This is the homepage of my project.
+Hello!  
+This is the official website of **Yousef Yousefi**, where you can find information about my research, publications, and projects.
 
+Feel free to explore the following pages:
+
+- [About Me](about)
+- [Contact](contact)
+
+Stay connected for more updates and contributions!
+
+---
