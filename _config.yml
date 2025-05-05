@@ -1,22 +1,30 @@
-# _config.yml
-
 title: "Yousef Yousefi"
-description: "Official Website of Yousef Yousefi"
-url: "https://sgh-paradigm.github.io/Yousef-Yousefi"
-baseurl: "" # Important: empty if your repo name matches username/repo
+description: "Official website of Yousef Yousefi - Researcher and Scientist."
+theme: jekyll-theme-cayman
+markdown: kramdown
 
-theme: just-the-docs
+# Navigation links in the header
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
 
-color_scheme: light
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Optional settings to make it more professional
-search_enabled: true
-aux_links:
-  "View GitHub Repository":
-    - "https://github.com/SGH-paradigm/Yousef-Yousefi"
+# Optional: social links (can improve SEO)
+social_links:
+  - name: GitHub
+    url: https://sgh-paradigm.github.io/Yousef-Yousefi/
+  - name: ResearchGate
+    url: https://www.researchgate.net/profile/Yousef-Yousefi-7
+  - name: Email
+    url: mailto:yousefyousefi606@gmail.com
 
-# Logo or favicon if you have it later
-favicon_ico: "/favicon.ico"
+# GitHub repository settings (optional)
+repository: SGH-paradigm/Yousef-Yousefi
 
-# Navigation Order Settings
-nav_sort: case_insensitive
+# Other settings
+show_downloads: false
