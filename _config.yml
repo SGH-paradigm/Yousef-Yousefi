@@ -1,25 +1,22 @@
+# _config.yml
+
 title: "Yousef Yousefi"
-description: "Official Scientific Website"
+description: "Official Website of Yousef Yousefi"
+url: "https://sgh-paradigm.github.io/Yousef-Yousefi"
+baseurl: "" # Important: empty if your repo name matches username/repo
+
 theme: just-the-docs
 
-url: "https://sgh-paradigm.github.io/Yousef-Yousefi"
+color_scheme: light
 
-# Define the navigation
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about
-  - title: "Contact"
-    url: /contact
-  - title: "License"
-    url: /license
-  - title: "Feedback"
-    url: /feedback
-
-# (optional) Enable search
+# Optional settings to make it more professional
 search_enabled: true
+aux_links:
+  "View GitHub Repository":
+    - "https://github.com/SGH-paradigm/Yousef-Yousefi"
 
-# (optional) Set favicon and logo (if you have)
-# favicon_ico: "/assets/favicon.ico"
-# logo: "/assets/logo.png"
+# Logo or favicon if you have it later
+favicon_ico: "/favicon.ico"
+
+# Navigation Order Settings
+nav_sort: case_insensitive
