@@ -8,7 +8,7 @@ header_pages:
   - index.md
   - about.md
   - contact.md
-  - table of contents.md
+  - table-of-contents.md
   
 # Build settings
 plugins:
