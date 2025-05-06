@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About Me"
-nav_order: 2
+nav_order: 5
 description: "Learn more about Yousef Yousefi."
 permalink: /Table of Contents/
 ---
