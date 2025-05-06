@@ -3,7 +3,7 @@ layout: default
 title: "Table of Contents"
 nav_order: 4
 description: "Learn more about Yousef Yousefi."
-permalink: /Table of Contents/
+permalink: /Table-of-Contents/
 ---
 
 # Table of Contents
