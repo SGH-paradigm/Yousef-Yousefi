@@ -26,7 +26,7 @@ This website showcases my decades of scientific work in:
 - **Philosophy of Science:** Entangled Foundations of Mathematics and Physics
 
 You can access the full content through the navigation bar:  
-👉 [About Me](about/) | [Contact](contact/)
+👉 [About Me](about/) | [Table of contents ](Table of contents /)| [Contact](contact/)| [Contact](contact/)| [Contact](contact/)
 
 ---
 
