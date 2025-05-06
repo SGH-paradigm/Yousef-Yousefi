@@ -3,19 +3,16 @@ description: "Official website of Yousef Yousefi - Researcher and Scientist."
 theme: jekyll-theme-cayman
 markdown: kramdown
 
-# Navigation links in the header
 header_pages:
   - index.md
   - about.md
-  - contact.md
   - table-of-contents.md
-  
-# Build settings
+  - contact.md
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Optional: social links (can improve SEO)
 social_links:
   - name: GitHub
     url: https://sgh-paradigm.github.io/Yousef-Yousefi/
@@ -24,8 +21,6 @@ social_links:
   - name: Email
     url: mailto:yousefyousefi606@gmail.com
 
-# GitHub repository settings (optional)
 repository: SGH-paradigm/Yousef-Yousefi
 
-# Other settings
 show_downloads: false
