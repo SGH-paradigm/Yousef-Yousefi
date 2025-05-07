@@ -11,7 +11,7 @@ permalink: /table-of-contents/
 <details>
 <summary><strong>Opening Section</strong></summary>
 
-- [General Introduction](/readme/)
+- [General Introduction](/README/)
 - [Table of Contents](/table-of-contents/)
 
 </details>
@@ -59,10 +59,10 @@ permalink: /table-of-contents/
 
 - [Preface](/r-preface/)
 - [Introduction](/r-introduction/)
-{% for i in (1..40) %}
-- [Result R-{{i}}](/r-{{i}}/)
-{% endfor %}
-- [Conclusion](/r-conclusion/)
+- [Result R-1](/r-1/)
+- ...
+- [Result R-40](/r-40/)
+
 </details>
 
 <details>
