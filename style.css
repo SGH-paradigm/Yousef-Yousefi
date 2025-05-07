@@ -1,0 +1,114 @@
+/* New Modern White-Blue and Dark Theme for SGH Website */
+
+:root {
+  --primary-color: #0056b3; /* Main blue */
+  --secondary-color: #003366; /* Darker blue for dark mode */
+  --background-light: #ffffff; /* White background */
+  --background-dark: #121212; /* Dark background */
+  --text-light: #111111; /* Dark text */
+  --text-dark: #eeeeee; /* Light text */
+  --link-hover: #3399ff; /* Lighter blue */
+  --border-radius: 12px;
+  --transition-speed: 0.3s;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-light);
+  color: var(--text-light);
+  transition: background-color var(--transition-speed), color var(--transition-speed);
+}
+
+header, nav, footer {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color var(--transition-speed);
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+}
+
+.container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+button, .btn {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: background-color var(--transition-speed);
+}
+
+button:hover, .btn:hover {
+  background-color: var(--link-hover);
+}
+
+.card {
+  background: #f9f9f9;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: var(--border-radius);
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.05);
+  transition: transform var(--transition-speed);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Dark Mode */
+body.dark-mode {
+  background-color: var(--background-dark);
+  color: var(--text-dark);
+}
+
+body.dark-mode header,
+body.dark-mode nav,
+body.dark-mode footer {
+  background-color: var(--secondary-color);
+}
+
+body.dark-mode .card {
+  background: #1e1e1e;
+}
+
+body.dark-mode a {
+  color: #66b2ff;
+}
+
+/* Toggle Dark Mode Button */
+#dark-mode-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+}
+
+#dark-mode-toggle:hover {
+  background-color: var(--link-hover);
+}
