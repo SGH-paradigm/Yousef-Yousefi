@@ -6,7 +6,7 @@ description: "Explore the structure of Yousef Yousefi's scientific work."
 permalink: /table-of-contents/
 ---
 
-# 📚 Table of Contents
+# 📚 Table of Contents 
 
 <details>
 <summary><strong>Opening Section</strong></summary>
