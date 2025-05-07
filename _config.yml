@@ -1,26 +1,26 @@
-title: "Yousef Yousefi"
-description: "Official website of Yousef Yousefi - Researcher and Scientist."
-theme: jekyll-theme-cayman
-markdown: kramdown                       
+title: "Science Generalization Hypothesis (SGH)"
+description: "Official website of Yousef Yousefi's lifelong interdisciplinary scientific research."
+baseurl: "/Yousef-Yousefi" # Keep this if your GitHub repo is named Yousef-Yousefi
+url: "https://sgh-paradigm.github.io"
+
+theme: minima
 
 header_pages:
   - index.md
-  - about.md
   - table-of-contents.md
   - contact.md
+  - support-the-mission.md
+  - feedback.md
+  - license.md
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
-social_links:
-  - name: GitHub
-    url: https://sgh-paradigm.github.io/Yousef-Yousefi/
-  - name: ResearchGate
-    url: https://www.researchgate.net/profile/Yousef-Yousefi-7
-  - name: Email
-    url: mailto:yousefyousefi606@gmail.com
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
-repository: SGH-paradigm/Yousef-Yousefi
-
-show_downloads: false
+permalink: pretty
