@@ -2,43 +2,45 @@
 layout: default
 title: "Feedback"
 nav_order: 6
-description: "Share your thoughts, suggestions, and feedback with Yousef Yousefi."
+description: "Share your thoughts, suggestions, and questions with Yousef Yousefi."
 permalink: /feedback/
 ---
 
-# 📢 Feedback
+# ✉️ Feedback
 
-Your feedback is invaluable!  
-I am always striving to improve, refine, and expand my work.  
-Whether you have suggestions, questions, corrections, or encouragement, I would love to hear from you.
+Your feedback is incredibly valuable.  
+It helps improve the project, guides future directions, and brings new ideas to life!
 
 ---
 
-## 📬 How to Provide Feedback
+## 📢 Share Your Thoughts
+
+If you have:
+
+- Suggestions for improvements
+- Questions about the content
+- Ideas for future research
+- Collaboration proposals
+- Or simply want to say hello
+
+Feel free to reach out!
+
+---
+
+## 📬 How to Contact
+
+You can send your feedback via:
 
 - **Email:** [yousefyousefi606@gmail.com](mailto:yousefyousefi606@gmail.com)
-- **ResearchGate:** [Yousef Yousefi’s Profile](https://www.researchgate.net/profile/Yousef-Yousefi-7)
-- **GitHub:** [Submit an Issue](https://github.com/SGH-paradigm/science-generalization-hypothesis/issues)
-
-Feel free to reach out via any of these platforms.  
-Constructive criticism, support, and discussion are all welcome!
+- **GitHub Discussions:** [Join the conversation](https://github.com/SGH-paradigm/Yousef-Yousefi/discussions)
+- **ResearchGate:** [My ResearchGate Profile](https://www.researchgate.net/profile/Yousef-Yousefi-7)
 
 ---
 
-## ✍️ What You Can Send
-
-- Questions about theories or methods
-- Suggestions for future directions
-- Noticing any typos or errors
-- Ideas for collaboration
-- Words of support
-
-Every message is read carefully and helps shape the future of this work.
-
----
-
-> 🌟 *Together, we grow knowledge and open new horizons.* 🌟
-
-Thank you for taking the time to share your thoughts!
+<div style="border: 2px solid #2196F3; padding: 20px; margin-top: 30px; border-radius: 12px; background-color: #f0f8ff;">
+<p align="center" style="font-size: 18px;">
+<strong>🌟 Every message matters. Thank you for being part of this journey! 🌟</strong>
+</p>
+</div>
 
 ---
