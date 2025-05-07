@@ -26,7 +26,7 @@ This website showcases my decades of scientific work in:
 - **Philosophy of Science:** Entangled Foundations of Mathematics and Physics
 
 You can access the full content through the navigation bar:  
-👉 [About Me](about/) | [Table of contents ](Table of contents /)| [Contact](contact/)| [Contact](contact/)| [Contact](contact/)
+👉 [About Me](/about/) | [Table of Contents](/table-of-contents/) | [Contact](/contact/)
 
 ---
 
@@ -34,7 +34,7 @@ You can access the full content through the navigation bar:
 > 📜 My official papers are being simultaneously submitted to:
 > - [arXiv.org](https://arxiv.org)
 > - [ResearchGate](https://www.researchgate.net/profile/Yousef-Yousefi-7)
-> - [This Website](https://sgh-paradigm.github.io/Yousef-Yousefi/)
+> - [This Website](https://sgh-paradigm.github.io/science-generalization-hypothesis/)
 
 Stay tuned for updates and new breakthroughs!
 
@@ -43,7 +43,7 @@ Stay tuned for updates and new breakthroughs!
 ## 📬 Get in Touch
 
 Feel free to reach out for discussions, collaborations, or questions.  
-You can find all contact options on the [Contact](contact/) page.
+You can find all contact options on the [Contact](/contact/) page.
 
 ---
 
