@@ -11,7 +11,7 @@ permalink: /table-of-contents/
 <details>
 <summary><strong>Opening Section</strong></summary>
 
-- [General Introduction](/README/)
+- [General Introduction](/general-introduction/)
 - [Table of Contents](/table-of-contents/)
 
 </details>
