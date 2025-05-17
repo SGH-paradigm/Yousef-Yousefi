@@ -8,7 +8,7 @@ permalink: /table-of-contents/
 
 # 📚 Table of Contents 
 
-<details>
+<details open>
 <summary><strong>Opening Section</strong></summary>
 
 - [General Introduction](/general-introduction/)
@@ -19,48 +19,48 @@ permalink: /table-of-contents/
 <details>
 <summary><strong>Philosophy Section</strong></summary>
 
-- [Preface (PDF)](/assets/book/Philosophy/P-Preface.pdf)
-- [Introduction (PDF)](/assets/book/Philosophy/P-Introduction.pdf)
-- [P-1 (PDF)](/assets/book/Philosophy/P-1.pdf)
-- [P-2 (PDF)](/assets/book/Philosophy/P-2.pdf)
-- [P-3 (PDF)](/assets/book/Philosophy/P-3.pdf)
-- [Conclusion (PDF)](/assets/book/Philosophy/P-Conclusion.pdf)
+- [Preface](/p-preface/)
+- [Introduction](/p-introduction/)
+- [P-1](/p-1/)
+- [P-2](/p-2/)
+- [P-3](/p-3/)
+- [Conclusion](/p-conclusion/)
 
 </details>
 
 <details>
 <summary><strong>Mathematics Section</strong></summary>
 
-- [Preface (PDF)](/assets/book/Mathematics/A-Preface.pdf)
-- [Introduction (PDF)](/assets/book/Mathematics/A-Introduction.pdf)
-- [Chapter 1 (A-1-1) (PDF)](/assets/book/Mathematics/A-1-1.pdf)
-- [Chapter 2 (A-1-2) (PDF)](/assets/book/Mathematics/A-1-2.pdf)
-- [Chapter 3 (A-2-1) (PDF)](/assets/book/Mathematics/A-2-1.pdf)
-- [Chapter 4 (A-2-2) (PDF)](/assets/book/Mathematics/A-2-2.pdf)
-- [Conclusion (PDF)](/assets/book/Mathematics/A-Conclusion.pdf)
+- [Preface](/a-preface/)
+- [Introduction](/a-introduction/)
+- [Chapter 1 (A-1-1)](/a-1-1/)
+- [Chapter 2 (A-1-2)](/a-1-2/)
+- [Chapter 3 (A-2-1)](/a-2-1/)
+- [Chapter 4 (A-2-2)](/a-2-2/)
+- [Conclusion](/a-conclusion/)
 
 </details>
 
 <details>
 <summary><strong>Physics Section</strong></summary>
 
-- [Preface (PDF)](/assets/book/Physics/B-Preface.pdf)
-- [Introduction (PDF)](/assets/book/Physics/B-Introduction.pdf)
-- [Chapter 1 (B-1-1) (PDF)](/assets/book/Physics/B-1-1.pdf)
-- [Chapter 2 (B-1-2) (PDF)](/assets/book/Physics/B-1-2.pdf)
-- [Chapter 3 (B-2-1) (PDF)](/assets/book/Physics/B-2-1.pdf)
-- [Chapter 4 (B-2-2) (PDF)](/assets/book/Physics/B-2-2.pdf)
-- [Conclusion (PDF)](/assets/book/Physics/B-Conclusion.pdf)
+- [Preface](/b-preface/)
+- [Introduction](/b-introduction/)
+- [Chapter 1 (B-1-1)](/b-1-1/)
+- [Chapter 2 (B-1-2)](/b-1-2/)
+- [Chapter 3 (B-2-1)](/b-2-1/)
+- [Chapter 4 (B-2-2)](/b-2-2/)
+- [Conclusion](/b-conclusion/)
 
 </details>
 
 <details>
 <summary><strong>Results Section</strong></summary>
 
-- [Preface (PDF)](/assets/book/Results/R-Preface.pdf)
-- [Introduction (PDF)](/assets/book/Results/R-Introduction.pdf)
+- [Preface](/r-preface/)
+- [Introduction](/r-introduction/)
 {% for i in (1..40) %}
-- [Result R-{{ i }} (PDF)](/assets/book/Results/R-{{ i }}.pdf)
+- [Result R-{{ i }}](/r-{{ i }}/)
 {% endfor %}
 
 </details>
@@ -68,13 +68,13 @@ permalink: /table-of-contents/
 <details>
 <summary><strong>Final Thoughts</strong></summary>
 
-- [Final Thoughts (PDF)](/assets/book/Final/Final-Thoughts.pdf)
+- [Final Thoughts](/final-thoughts/)
 
 </details>
 
 <details>
 <summary><strong>In Progress</strong></summary>
 
-- [In Progress (PDF)](/assets/book/In-Progress/In-Progress.pdf)
+- [In Progress](/in-progress/)
 
 </details>
