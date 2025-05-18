@@ -15,6 +15,7 @@ permalink: /table-of-contents/
 - [Table of Contents](/table-of-contents/)
 
 </details>
+<li><a href="/Yousef-Yousefi/r-1/">Chapter R-1</a></li>
 
 <details>
 <summary><strong>Philosophy Section</strong></summary>
