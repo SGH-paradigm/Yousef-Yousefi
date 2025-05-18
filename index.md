@@ -29,7 +29,7 @@ You can access the full content through the navigation bar:
 👉 [About Me](about/) | [Table of Contents](table-of-contents/) | [Contact](contact/)
 - [Chapter R-1 PDF](./r-1/)
 
-- [Chapter R-1 PDF](./r-1/)
+- [Chapter R-2 PDF](./r-2/)
 
 ---
 
