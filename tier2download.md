@@ -6,7 +6,7 @@ permalink: /tier2/
 
 # Tier 2 – Foundations (115 pages PDF)
 
-**Suggested price: 5 USD**  
+**Suggested price: 8 USD**  
 (pay what you want – even small amounts help support my family & research!)
 
 **This tier includes:**
@@ -19,7 +19,7 @@ After payment you will receive the download link via email automatically (instan
 If any issue (no email arrives), contact me at yousefyousefi606@gmail.com with your transaction ID or proof.
 
 <!-- NOWPayments White Payment Button -->
-<a href="https://nowpayments.io/payment/?iid=5354256618&source=button" target="_blank" rel="noreferrer noopener">
+<a href="https://nowpayments.io/payment/?iid=6420922335&source=button" target="_blank" rel="noreferrer noopener">
   <img src="https://nowpayments.io/images/embeds/payment-button-white.svg" alt="Cryptocurrency & Bitcoin payment button by NOWPayments">
 </a>
 
