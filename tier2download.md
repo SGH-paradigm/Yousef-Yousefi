@@ -1,18 +1,29 @@
 ---
 layout: default
-title: "Download Tier 2"
-permalink: /download-tier2/
+title: Tier 2 – Foundations
+permalink: /tier2/
 ---
 
-# ✅ Thank You for Your Support!
+# Tier 2 – Foundations (115 pages PDF)
 
-Your payment was successful. Here are your files:
+**Suggested price: 5 USD**  
+(pay what you want – even small amounts help support my family & research!)
 
-- [📥 Chapter 0 – Fixed‑Point Necessity (PDF)](https://zenodo.org/records/12345678/files/chapter0.pdf?download=1)
-- [📥 Chapter 1 – Master Equation (PDF)](https://zenodo.org/records/12345678/files/chapter1.pdf?download=1)
+This tier includes:  
+- Chapter 0 – Fixed-Point Necessity  
+- Chapter 1 – Master Equation  
+- Additional notes and diagrams  
 
-**Please do not share these links.** They are for your personal use only and help support my continued research.
+After payment you will receive the download link via email automatically (instant delivery).  
 
-If you have any trouble downloading, feel free to [contact me](/contact/).
+If any issue (no email arrives), contact me at yousefyousefi606@gmail.com with your transaction ID or proof.
+
+<!-- NOWPayments White Payment Button -->
+<a href="https://nowpayments.io/payment/?iid=5884154376&source=button" target="_blank" rel="noreferrer noopener">
+  <img src="https://nowpayments.io/images/embeds/payment-button-white.svg" alt="Cryptocurrency & Bitcoin payment button by NOWPayments">
+</a>
+
+<small>Supports BNB (BSC), USDT (TRC20), BTC, ETH and 300+ other cryptocurrencies.  
+Payment is secure and processed by NOWPayments. Minimum may apply depending on coin.</small>
 
 [← Back to Home](/)
