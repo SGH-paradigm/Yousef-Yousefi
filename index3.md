@@ -17,11 +17,11 @@ This website showcases my decades of scientific work organized into a series of 
 ## 📚 Research Generations
 
 ### Primary (Free)
-- Preface  
-- Introduction  
+- Preface  [Preface](Preface/)
+- Introduction  [Introduction](Introduction/)
 
 ### First Generation – Foundations (Suggested $10)
-- Chapter 1: Foundations of SGH  
+- Chapter 1: Foundations of SGH  [Chapter 1: Foundations of SGH](Chapter 1: Foundations of SGH/)
 - Chapter 2: The Creation Mechanism  
 - Chapter 3: Unified Classification  
 - Chapter 4: Mathematical Formalization  
