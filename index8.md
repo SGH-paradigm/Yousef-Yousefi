@@ -9,39 +9,39 @@ permalink: /
 
 .hero{
 
-background:linear-gradient(135deg,#000428,#004e92);
+background:linear-gradient(135deg,#020024,#090979,#00d4ff);
 
-padding:40px;
-
-border-radius:12px;
+padding:60px;
 
 color:white;
 
 text-align:center;
 
+border-radius:14px;
+
+margin-bottom:30px;
+
 }
 
-.grid{
+.roadmap{
 
 display:grid;
 
-grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
 
-gap:15px;
-
-margin-top:25px;
+gap:20px;
 
 }
 
 .card{
 
-padding:20px;
+background:#f7f9fc;
 
-border-radius:10px;
+padding:22px;
 
-background:#f5f7fb;
+border-radius:12px;
 
-box-shadow:0px 3px 8px rgba(0,0,0,0.15);
+box-shadow:0px 4px 10px rgba(0,0,0,.15);
 
 transition:.3s;
 
@@ -49,7 +49,25 @@ transition:.3s;
 
 .card:hover{
 
-transform:translateY(-4px);
+transform:translateY(-6px);
+
+}
+
+.bigbtn{
+
+display:inline-block;
+
+padding:12px 18px;
+
+background:#004e92;
+
+color:white;
+
+border-radius:8px;
+
+text-decoration:none;
+
+margin:6px;
 
 }
 
@@ -61,7 +79,7 @@ transform:translateY(-4px);
 
 # Science Generalization Hypothesis
 
-### A Multi-Generation Scientific Research Program
+## A Multi-Generation Scientific Research Program
 
 Ontology • Mathematics • Physics • Consciousness
 
@@ -71,65 +89,23 @@ Author:
 
 Independent Researcher
 
-</div>
+<br><br>
 
+<a href="/program/" class="bigbtn">
 
----
-
-# 🌌 Explore SGH
-
-<div class="grid">
-
-<a href="/program/" class="card">
-
-## Research Program
-
-Primary → Ultimate Journey.
+Explore Roadmap
 
 </a>
 
+<a href="/preface/" class="bigbtn">
 
-<a href="/library/" class="card">
-
-## Research Library
-
-All chapters and works.
+Start Free
 
 </a>
 
+<a href="/paradoxes/" class="bigbtn">
 
-<a href="/paradoxes/" class="card">
-
-## Solved Paradoxes
-
-200+ Resolutions.
-
-</a>
-
-
-<a href="/roadmap/" class="card">
-
-## Future Science
-
-Experiments and Vision.
-
-</a>
-
-
-<a href="/support/" class="card">
-
-## Support Research
-
-Crypto Patron Access.
-
-</a>
-
-
-<a href="/license/" class="card">
-
-## License
-
-CC BY 4.0.
+Solved Paradoxes
 
 </a>
 
@@ -137,18 +113,105 @@ CC BY 4.0.
 
 
 
+# 🌌 The SGH Research Roadmap
+
+From foundational ontology toward ultimate scientific synthesis.
+
+<div class="roadmap">
+
+<div class="card">
+
+# Primary (Free)
+
+Preface + Introduction.
+
+<a href="/preface/">Enter</a>
+
+</div>
+
+
+<div class="card">
+
+# First Generation
+
+Ontology Foundations.
+
+<a href="/first-gen/">Explore</a>
+
+</div>
+
+
+<div class="card">
+
+# Second Generation
+
+Mathematical Reconstruction.
+
+<a href="/second-gen/">Explore</a>
+
+</div>
+
+
+<div class="card">
+
+# Third Generation
+
+Triadic SGH.
+
+<a href="/third-gen/">Explore</a>
+
+</div>
+
+
+<div class="card">
+
+# Fourth Generation
+
+Octactan SGH.
+
+<a href="/fourth-gen/">Explore</a>
+
+</div>
+
+
+<div class="card">
+
+# Ultimate
+
+Toward Gaexitizen.
+
+<a href="/ultimate/">Explore</a>
+
+</div>
+
+</div>
+
+
+
 ---
 
-# Why SGH?
+# 🧩 Solved Paradoxes
 
-SGH proposes a unified ontological foundation integrating philosophy, mathematics and physics.
+Over 200 paradoxes resolved across philosophy, mathematics and physics.
 
-Research spans multiple generations of discovery.
+👉 <a href="/paradoxes/">Explore Archive</a>
 
-Free access available for entry materials.
+
 
 ---
 
-📬 Contact:
+# 🚀 Future Vision
 
-<a href="/contact/">Contact Page</a>
+Experimental roadmap.
+
+Physics implications.
+
+χ-parameter research.
+
+👉 <a href="/roadmap/">Future Program</a>
+
+
+
+---
+
+📬 <a href="/contact/">Contact</a>
