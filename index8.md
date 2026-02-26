@@ -1,47 +1,139 @@
 ---
 layout: default
-title: SGH Research Program
+title: Science Generalization Hypothesis
 nav_order: 1
 permalink: /
 ---
 
+
 <style>
+
+/* HERO */
 
 .hero{
 
-background:linear-gradient(135deg,#020024,#090979,#00d4ff);
+background:linear-gradient(140deg,#000428,#004e92);
 
-padding:60px;
+padding:80px;
+
+border-radius:14px;
 
 color:white;
 
 text-align:center;
 
-border-radius:14px;
+margin-bottom:35px;
 
-margin-bottom:30px;
+box-shadow:0px 10px 25px rgba(0,0,0,.4);
 
 }
 
+
+/* BUTTON */
+
+.bigbtn{
+
+display:inline-block;
+
+padding:14px 22px;
+
+margin:8px;
+
+border-radius:9px;
+
+background:#00aaff;
+
+color:white;
+
+font-weight:bold;
+
+text-decoration:none;
+
+transition:.3s;
+
+}
+
+.bigbtn:hover{
+
+background:#0085cc;
+
+transform:translateY(-2px);
+
+}
+
+
+/* ROADMAP */
+
 .roadmap{
+
+display:flex;
+
+flex-direction:column;
+
+gap:20px;
+
+margin-top:30px;
+
+}
+
+
+.gen{
+
+padding:25px;
+
+border-radius:12px;
+
+background:#f4f7fb;
+
+box-shadow:0px 4px 12px rgba(0,0,0,.18);
+
+transition:.3s;
+
+}
+
+.gen:hover{
+
+transform:translateX(8px);
+
+}
+
+
+/* ARROW */
+
+.arrow{
+
+text-align:center;
+
+font-size:28px;
+
+font-weight:bold;
+
+}
+
+
+/* GRID */
+
+.grid{
 
 display:grid;
 
-grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
 
 gap:20px;
+
+margin-top:30px;
 
 }
 
 .card{
 
-background:#f7f9fc;
-
 padding:22px;
 
-border-radius:12px;
+background:#f7f9fc;
 
-box-shadow:0px 4px 10px rgba(0,0,0,.15);
+border-radius:10px;
+
+box-shadow:0px 3px 8px rgba(0,0,0,.15);
 
 transition:.3s;
 
@@ -49,25 +141,7 @@ transition:.3s;
 
 .card:hover{
 
-transform:translateY(-6px);
-
-}
-
-.bigbtn{
-
-display:inline-block;
-
-padding:12px 18px;
-
-background:#004e92;
-
-color:white;
-
-border-radius:8px;
-
-text-decoration:none;
-
-margin:6px;
+transform:translateY(-5px);
 
 }
 
@@ -79,9 +153,13 @@ margin:6px;
 
 # Science Generalization Hypothesis
 
-## A Multi-Generation Scientific Research Program
+## Toward a Unified Ontology of Reality
 
 Ontology • Mathematics • Physics • Consciousness
+
+---
+
+### A Multi-Generation Scientific Research Program
 
 Author:
 
@@ -91,17 +169,12 @@ Independent Researcher
 
 <br><br>
 
-<a href="/program/" class="bigbtn">
-
-Explore Roadmap
-
-</a>
-
 <a href="/preface/" class="bigbtn">
 
-Start Free
+Start Free Materials
 
 </a>
+
 
 <a href="/paradoxes/" class="bigbtn">
 
@@ -109,109 +182,198 @@ Solved Paradoxes
 
 </a>
 
+
+<a href="/support/" class="bigbtn">
+
+Support Research
+
+</a>
+
 </div>
 
 
 
-# 🌌 The SGH Research Roadmap
+# 🌌 SGH Research Roadmap
 
-From foundational ontology toward ultimate scientific synthesis.
+A progressive scientific ascent toward unified knowledge.
 
 <div class="roadmap">
 
-<div class="card">
 
-# Primary (Free)
+<div class="gen">
 
-Preface + Introduction.
+# PRIMARY — FREE ENTRY
 
-<a href="/preface/">Enter</a>
+Preface and Introduction.
+
+<a href="/preface/">Enter →</a>
+
+</div>
+
+<div class="arrow">
+
+↓
 
 </div>
 
 
-<div class="card">
+<div class="gen">
 
-# First Generation
+# FIRST GENERATION
 
 Ontology Foundations.
 
-<a href="/first-gen/">Explore</a>
+<a href="/first-gen/">Explore →</a>
 
 </div>
 
 
-<div class="card">
+<div class="arrow">
 
-# Second Generation
+↓
+
+</div>
+
+
+<div class="gen">
+
+# SECOND GENERATION
 
 Mathematical Reconstruction.
 
-<a href="/second-gen/">Explore</a>
+<a href="/second-gen/">Explore →</a>
 
 </div>
 
 
-<div class="card">
 
-# Third Generation
+<div class="arrow">
+
+↓
+
+</div>
+
+
+<div class="gen">
+
+# THIRD GENERATION
 
 Triadic SGH.
 
-<a href="/third-gen/">Explore</a>
+<a href="/third-gen/">Explore →</a>
 
 </div>
 
 
-<div class="card">
 
-# Fourth Generation
+<div class="arrow">
+
+↓
+
+</div>
+
+
+<div class="gen">
+
+# FOURTH GENERATION
 
 Octactan SGH.
 
-<a href="/fourth-gen/">Explore</a>
+<a href="/fourth-gen/">Explore →</a>
+
+</div>
+
+
+
+<div class="arrow">
+
+↓
+
+</div>
+
+
+
+<div class="gen">
+
+# ULTIMATE
+
+Toward Gaexitizen.
+
+<a href="/ultimate/">Explore →</a>
+
+</div>
+
+
+</div>
+
+
+
+---
+
+# 🔬 Explore SGH
+
+<div class="grid">
+
+
+<div class="card">
+
+## Research Library
+
+All Chapters.
+
+<a href="/library/">Open →</a>
 
 </div>
 
 
 <div class="card">
 
-# Ultimate
+## Solved Paradoxes
 
-Toward Gaexitizen.
+200+ Resolutions.
 
-<a href="/ultimate/">Explore</a>
-
-</div>
+<a href="/paradoxes/">Browse →</a>
 
 </div>
 
 
+<div class="card">
+
+## Future Roadmap
+
+Experiments + χ Research.
+
+<a href="/roadmap/">See Vision →</a>
+
+</div>
+
+
+<div class="card">
+
+## License
+
+CC BY 4.0.
+
+<a href="/license/">View →</a>
+
+</div>
+
+
+<div class="card">
+
+## Contact
+
+Collaborate.
+
+<a href="/contact/">Contact →</a>
+
+</div>
+
+
+</div>
+
+
 
 ---
 
-# 🧩 Solved Paradoxes
-
-Over 200 paradoxes resolved across philosophy, mathematics and physics.
-
-👉 <a href="/paradoxes/">Explore Archive</a>
-
-
-
----
-
-# 🚀 Future Vision
-
-Experimental roadmap.
-
-Physics implications.
-
-χ-parameter research.
-
-👉 <a href="/roadmap/">Future Program</a>
-
-
-
----
-
-📬 <a href="/contact/">Contact</a>
+⭐ Knowledge expands through structured discovery.
