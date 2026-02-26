@@ -1,108 +1,279 @@
 ---
 layout: default
-title: "Home"
+title: Science Generalization Hypothesis
 nav_order: 1
-description: "Welcome to the official website of Yousef Yousefi."
 permalink: /
 ---
 
-# 👋 Welcome to My Scientific World
+<style>
 
-Hello, I am **Yousef Yousefi** — researcher, theorist, and lifelong explorer of the universe's deep structures.
+/* ===== GLOBAL ===== */
 
-This website showcases my decades of scientific work. Below you will find the complete catalog of my research, organized exactly as it appears in my master index. Click on any generation heading to view its contents and access options.
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+}
 
----
+/* ===== SGH TITLE HERO ===== */
 
-## 📚 Complete Research Catalog
+.hero {
+  background: linear-gradient(135deg, #020024, #090979, #00d4ff);
+  padding: 70px 20px;
+  text-align: center;
+  border-radius: 15px;
+  color: white;
+  margin-bottom: 30px;
+  box-shadow: 0px 12px 30px rgba(0,0,0,.35);
+}
 
-### <a href="/primary/" target="_blank">primery</a>
-- preface
-- introduction
+.herotitle {
+  font-size: 58px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-shadow: 0px 4px 12px rgba(0,0,0,.6);
+  margin-bottom: 10px;
+}
 
-### <a href="/first-gen/" target="_blank">first SGH genration</a>
-- introduction
-- Chapter 1: Foundations of SGH
-- Chapter 2: The Creation Mechanism
-- Chapter 3: Unified Classification
-- Chapter 4: Mathematical Formalization
-- Chapter 5: Physics Applications & Roadmap
-- Chapter 6: Philosophical Implications
-- Chapter 7: Research Roadmap
-- solved paradox
+.subtitle {
+  font-size: 22px;
+  opacity: .95;
+  margin-bottom: 25px;
+}
 
-### <a href="/second-gen/" target="_blank">Second genration</a>
-- Sience Genralization Hypothese road map toward unification intoduction:<br>Toward Uinification
-- SGH-Matematics Recounstrction : <br>A-1-1:
-- SGH-Matematics Recounstrction :<br>A-1-2:
-- SGH-Matematics Recounstrction :<br>A-2-1:
-- SGH-Matematics Recounstrction :<br>A-2-2:
-- SGH-Physics Recounstrction :<br>B-1-1:
-- SGH-Physics Recounstrction :<br>B-1-2:
-- SGH-Physics Recounstrction : : <br>B-2-1:
-- SGH-Physics Recounstrction :<br>B-2-2:
-- Conclusion
-- solved paradox
-- Resut 1
-- Resut 2
-- Resut 3
-- Resut 4
-- Resut 5
-- Resut 6
-- Resut 7
-- Resut 8
+/* ===== TOP NAVIGATION ===== */
 
-### <a href="/third-gen/" target="_blank">Tird Genration</a>
-- toward Genralization and Unification
-- Triadic
-- chapter 1 :A Foundational Ontological Framework for the Primordial Structure of Existence
-- chapter 2: Chapter 2: Existence Creation<br>The Mechanism by Which Existence Comes to Be
-- chapter 3: Science Generalization Hypothesis (SGH): A Unified Framework- clasification
-- implication chapter 3
-- felisiblity
-- future work
-- solved paradox
-- result 1
-- result 2
-- result 3
-- result 4
-- result 5
-- result 6
-- result 7
-- result 8
-- result 9
-- result 10
-- result 11
-- result 12
-- result 13
-- result 14
-- result 15
-- paradox
-- paradox
+.topnav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin-bottom: 35px;
+}
 
-### <a href="/fourth-gen/" target="_blank">forth genration</a>
-- paradox
-- Octactan SGH
-- genralization
-- paradox
-- paradox
-- paradox
-- implication chapter 3
-- implication chapter 3
-- implication chapter 3
-- implication chapter 3
-- solved paradox
-- unification
-- future work
-- toward galaxitizen
+.tab {
+  padding: 12px 20px;
+  border-radius: 25px;
+  background: #f1f5fb;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0px 3px 8px rgba(0,0,0,.2);
+  transition: .3s;
+}
 
----
+.tab:hover {
+  background: #004e92;
+  color: white;
+  transform: translateY(-3px);
+}
 
-## 🧩 Solved Paradoxes (also listed above)
+/* ===== BUTTONS ===== */
 
-Many paradoxes appear as individual items within each generation. You can browse them directly above.
+.bigbtn {
+  padding: 14px 24px;
+  background: #00aaff;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 6px;
+  display: inline-block;
+  transition: .3s;
+}
 
-👉 <a href="/paradoxes/" target="_blank">Browse All Solved Paradoxes</a>
+.bigbtn:hover {
+  background: #0085cc;
+}
+
+/* ===== GENERATION CARDS ===== */
+
+.gen {
+  padding: 28px;
+  background: #f7f9fc;
+  border-radius: 14px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,.2);
+  transition: .3s;
+  margin-bottom: 20px;
+}
+
+.gen:hover {
+  transform: translateX(10px);
+}
+
+.gen h2, .gen h3 {
+  margin-top: 0;
+}
+
+.gen ul {
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+
+/* ===== GRID ===== */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.card {
+  padding: 24px;
+  background: #fafcff;
+  border-radius: 12px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,.18);
+  transition: .3s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+}
+
+</style>
+
+<!-- HERO SECTION -->
+<div class="hero">
+  <div class="herotitle">Science Generalization Hypothesis (SGH)</div>
+  <div class="subtitle">Toward a Unified Ontology of Reality<br>Ontology • Mathematics • Physics • Consciousness</div>
+  <a href="/preface/" class="bigbtn" target="_blank">Start Free Materials</a>
+  <a href="/paradoxes/" class="bigbtn" target="_blank">Solved Paradoxes</a>
+  <a href="/support/" class="bigbtn" target="_blank">Support Mission</a>
+</div>
+
+<!-- TOP NAVIGATION -->
+<div class="topnav">
+  <a class="tab" href="/table-of-content/" target="_blank">📚 Table of Contents</a>
+  <a class="tab" href="/contact/" target="_blank">📬 Contact</a>
+  <a class="tab" href="/support/" target="_blank">❤️ Support the Mission</a>
+  <a class="tab" href="/feedback/" target="_blank">💡 Feedback</a>
+  <a class="tab" href="/license/" target="_blank">⚖️ License</a>
+</div>
+
+# 📚 Complete Research Catalog
+
+Click on any generation heading to access its overview page. Detailed contents are listed below each heading for reference.
+
+<!-- GENERATION CARDS (DETAILED LISTS) -->
+
+<div class="gen">
+  <h3><a href="/primary/" target="_blank">primery</a></h3>
+  <ul>
+    <li>preface</li>
+    <li>introduction</li>
+  </ul>
+</div>
+
+<div class="gen">
+  <h3><a href="/first-gen/" target="_blank">first SGH genration</a></h3>
+  <ul>
+    <li>introduction</li>
+    <li>Chapter 1: Foundations of SGH</li>
+    <li>Chapter 2: The Creation Mechanism</li>
+    <li>Chapter 3: Unified Classification</li>
+    <li>Chapter 4: Mathematical Formalization</li>
+    <li>Chapter 5: Physics Applications & Roadmap</li>
+    <li>Chapter 6: Philosophical Implications</li>
+    <li>Chapter 7: Research Roadmap</li>
+    <li>solved paradox</li>
+  </ul>
+</div>
+
+<div class="gen">
+  <h3><a href="/second-gen/" target="_blank">Second genration</a></h3>
+  <ul>
+    <li>Sience Genralization Hypothese road map toward unification intoduction:<br>Toward Uinification</li>
+    <li>SGH-Matematics Recounstrction : <br>A-1-1:</li>
+    <li>SGH-Matematics Recounstrction :<br>A-1-2:</li>
+    <li>SGH-Matematics Recounstrction :<br>A-2-1:</li>
+    <li>SGH-Matematics Recounstrction :<br>A-2-2:</li>
+    <li>SGH-Physics Recounstrction :<br>B-1-1:</li>
+    <li>SGH-Physics Recounstrction :<br>B-1-2:</li>
+    <li>SGH-Physics Recounstrction : : <br>B-2-1:</li>
+    <li>SGH-Physics Recounstrction :<br>B-2-2:</li>
+    <li>Conclusion</li>
+    <li>solved paradox</li>
+    <li>Resut 1</li>
+    <li>Resut 2</li>
+    <li>Resut 3</li>
+    <li>Resut 4</li>
+    <li>Resut 5</li>
+    <li>Resut 6</li>
+    <li>Resut 7</li>
+    <li>Resut 8</li>
+  </ul>
+</div>
+
+<div class="gen">
+  <h3><a href="/third-gen/" target="_blank">Tird Genration</a></h3>
+  <ul>
+    <li>toward Genralization and Unification</li>
+    <li>Triadic</li>
+    <li>chapter 1 :A Foundational Ontological Framework for the Primordial Structure of Existence</li>
+    <li>chapter 2: Chapter 2: Existence Creation<br>The Mechanism by Which Existence Comes to Be</li>
+    <li>chapter 3: Science Generalization Hypothesis (SGH): A Unified Framework- clasification</li>
+    <li>implication chapter 3</li>
+    <li>felisiblity</li>
+    <li>future work</li>
+    <li>solved paradox</li>
+    <li>result 1</li>
+    <li>result 2</li>
+    <li>result 3</li>
+    <li>result 4</li>
+    <li>result 5</li>
+    <li>result 6</li>
+    <li>result 7</li>
+    <li>result 8</li>
+    <li>result 9</li>
+    <li>result 10</li>
+    <li>result 11</li>
+    <li>result 12</li>
+    <li>result 13</li>
+    <li>result 14</li>
+    <li>result 15</li>
+    <li>paradox</li>
+    <li>paradox</li>
+  </ul>
+</div>
+
+<div class="gen">
+  <h3><a href="/fourth-gen/" target="_blank">forth genration</a></h3>
+  <ul>
+    <li>paradox</li>
+    <li>Octactan SGH</li>
+    <li>genralization</li>
+    <li>paradox</li>
+    <li>paradox</li>
+    <li>paradox</li>
+    <li>implication chapter 3</li>
+    <li>implication chapter 3</li>
+    <li>implication chapter 3</li>
+    <li>implication chapter 3</li>
+    <li>solved paradox</li>
+    <li>unification</li>
+    <li>future work</li>
+    <li>toward galaxitizen</li>
+  </ul>
+</div>
+
+<!-- GRID CARDS FOR QUICK ACCESS -->
+<div class="grid">
+  <div class="card">
+    <h3>Research Library</h3>
+    <a href="/library/" target="_blank">Open →</a>
+  </div>
+  <div class="card">
+    <h3>Solved Paradoxes</h3>
+    <p>200+ Resolutions.</p>
+    <a href="/paradoxes/" target="_blank">Browse →</a>
+  </div>
+  <div class="card">
+    <h3>Future Research</h3>
+    <a href="/roadmap/" target="_blank">See Vision →</a>
+  </div>
+  <div class="card">
+    <h3>Collaborations</h3>
+    <a href="/contact/" target="_blank">Contact →</a>
+  </div>
+</div>
 
 ---
 
@@ -110,9 +281,9 @@ Many paradoxes appear as individual items within each generation. You can browse
 
 Based on the Science Generalization Hypothesis, I explore visionary possibilities that could reshape humanity’s future. These ideas are speculative today, but they illustrate the power of the framework:
 
-- **Interstellar Travel:** How manipulating the reality parameter χ might enable new propulsion methods and even access to other dimensions.  
-- **Medical Revolutions:** Potential applications in cellular repair, reversing entropy, and understanding consciousness.  
-- **Next‑Gen Discovery Tools:** Detectors sensitive to χ‑transitions and experiments to reveal hidden structures in the cosmos.  
+- **Interstellar Travel:** How manipulating the reality parameter χ might enable new propulsion methods and even access to other dimensions.
+- **Medical Revolutions:** Potential applications in cellular repair, reversing entropy, and understanding consciousness.
+- **Next‑Gen Discovery Tools:** Detectors sensitive to χ‑transitions and experiments to reveal hidden structures in the cosmos.
 - **Toward “UFO” Technology:** Engineering gravity and inertia by locally shifting χ – a path to revolutionary vehicles.
 
 👉 <a href="/pioneer/" target="_blank">Read More</a>
@@ -137,5 +308,4 @@ You can find all contact options on the <a href="/contact/" target="_blank">Cont
 
 ---
 
-Thank you for visiting!  
-🌟 *Knowledge grows by sharing and expanding ideas.* 🌟
+⭐ *Knowledge grows by sharing and expanding ideas.*
