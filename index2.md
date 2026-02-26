@@ -10,60 +10,66 @@ permalink: /
 
 Hello, I am **Yousef Yousefi** — researcher, theorist, and lifelong explorer of the universe's deep structures.
 
-This website showcases my decades of scientific work in:
-
-- 🧠 **Philosophy** — foundational theories on knowledge and existence.
-- 🔢 **Mathematics** — new methods, structures, and generalizations.
-- 🌌 **Physics** — unified frameworks connecting fields and forces.
-- 📚 **Scientific Generalization** — connecting the dots across disciplines.
+This website showcases my decades of scientific work organized into a series of **research generations**, each building upon the last. You can start with free introductory materials and then unlock deeper layers. All payments are handled via cryptocurrency (USDT/BTC) with a **pay‑what‑you‑want** option – you may pay less (or more) if you wish.
 
 ---
 
-## 📖 Current Highlights
+## 📚 Research Generations
 
-- **New Theory:** Scale-Dependent Dimensionality and Field Unification
-- **Mathematical Innovation:** 3D Quantum Mechanics with Pauli-Based Coordinates
-- **Philosophy of Science:** Entangled Foundations of Mathematics and Physics
+### Primary (Free)
+- Preface  
+- Introduction  
 
-You can access the full content through the navigation bar:  
-👉 [About Me](about/) | [Table of Contents](table-of-contents/) | [Contact](contact/)
+### First Generation – Foundations (Suggested $10)
+- Chapter 1: Foundations of SGH  
+- Chapter 2: The Creation Mechanism  
+- Chapter 3: Unified Classification  
+- Chapter 4: Mathematical Formalization  
+- Chapter 5: Physics Applications & Roadmap  
+- Chapter 6: Philosophical Implications  
+- Chapter 7: Research Roadmap  
 
-- [Chapter R-1 PDF](./r-1/)
-- [Chapter R-2 PDF](./r-2/)
-- [Chapter R-3 PDF](./r-3/)
+### Second Generation – Mathematical Reconstruction (Suggested $5)
+- Roadmap: Toward Unification (Introduction)  
+- Mathematics Reconstruction Series:  
+  A‑1‑1, A‑1‑2, A‑2‑1, A‑2‑2, B‑1‑1, B‑1‑2, B‑2‑1, B‑2‑2  
+- Conclusion  
+- Results 1–8  
 
----
+### Third Generation – Triadic SGH (Suggested $50)
+- Toward Generalization and Unification  
+- Triadic  
+- Chapter 1: Foundational Ontological Framework  
+- Chapter 2: Existence Creation Mechanism  
+- Chapter 3: Unified Classification  
+- Implications of Chapter 3  
+- Falsifiability  
+- Future Work  
+- Results 1–15  
 
-## 📚 Research Access Tiers
+### Fourth Generation – Octactan SGH (Suggested $100)
+- Octactan SGH  
+- Generalization  
+- Implications (multiple)  
+- Unification  
+- Future Work  
+- Toward Gaexitizen  
 
-I have organized my life's work into several tiers. You can start with free materials and then unlock deeper layers. Each tier includes detailed PDFs, data, and proofs. Payments are handled via cryptocurrency (USDT/BTC) with a **pay-what-you-want** option – you can pay less (or more) if you wish.
-
-| Tier | Content | Price (Suggested) | Action |
-|------|---------|-------------------|--------|
-| **Tier 1 – Free** | Introductory chapters (R‑1, R‑2, R‑3) and early notes. | $0 | [View](#) (above) |
-| **Tier 2 – Foundations** | Chapters 0 & 1: Fixed‑Point Necessity, Master Equation (115 pages). | $5 | [Learn More](tier2/) |
-| **Tier 3 – Empirical Evidence** | Chapters 2‑4: χ‑spectrum, statistical thresholds, 485M measurements. | $10 | [Learn More](tier3/) |
-| **Tier 4 – Advanced Developments** | Chapters 5‑7: Staged creation, octonions, computational cosmology. | $15 | [Learn More](tier4/) |
-| **Tier 5 – Complete Book** | All chapters + future updates for one year. | $20 | [Learn More](tier5/) |
-
-Each tier page contains a payment button and download instructions.
+### Ultimate – Toward Gaexitizen (Suggested $100)
+- Capstone synthesis of the entire framework  
 
 ---
 
 ## 🧩 Solved Paradoxes
 
-I have resolved **over 200 foundational paradoxes** in philosophy, mathematics, and physics using the Science Generalization Hypothesis. These include:
+I have resolved **over 200 foundational paradoxes** in philosophy, mathematics, and physics using the Science Generalization Hypothesis. These are available as separate collections:
 
-- Russell's Paradox (set theory)
-- Wave‑Particle Duality (quantum mechanics)
-- EPR Paradox (non‑locality)
-- Measurement Problem
-- Black Hole Information Paradox
-- And many more…
+- First Generation Paradox Collection – **$500**  
+- Second Generation Paradox Collection – **$1000**  
+- Third Generation Paradox Collection – **$1000**  
+- Fourth Generation Paradox Collection – **$2000**  
 
-You can purchase individual paradox solutions or complete collections by category.
-
-👉 [Browse All Solved Paradoxes](paradoxes/)
+👉 [Browse All Solved Paradoxes](paradoxes/) (individual paradoxes also available)
 
 ---
 
@@ -71,12 +77,10 @@ You can purchase individual paradox solutions or complete collections by categor
 
 Based on the Science Generalization Hypothesis, I explore visionary possibilities that could reshape humanity’s future. These ideas are speculative today, but they illustrate the power of the framework:
 
-- **Interstellar Travel:** How manipulating the reality parameter χ might enable new propulsion methods and even access to other dimensions.
-- **Medical Revolutions:** Potential applications in cellular repair, reversing entropy, and understanding consciousness.
-- **Next‑Gen Discovery Tools:** Detectors sensitive to χ‑transitions and experiments to reveal hidden structures in the cosmos.
+- **Interstellar Travel:** How manipulating the reality parameter χ might enable new propulsion methods and even access to other dimensions.  
+- **Medical Revolutions:** Potential applications in cellular repair, reversing entropy, and understanding consciousness.  
+- **Next‑Gen Discovery Tools:** Detectors sensitive to χ‑transitions and experiments to reveal hidden structures in the cosmos.  
 - **Toward “UFO” Technology:** Engineering gravity and inertia by locally shifting χ – a path to revolutionary vehicles.
-
-These are invitations to explore and collaborate.
 
 👉 [Read More](pioneer/)
 
@@ -84,9 +88,9 @@ These are invitations to explore and collaborate.
 
 ## 📢 Latest News
 
-> 📜 My official papers are being simultaneously submitted to:
-> - [arXiv.org](https://arxiv.org)
-> - [ResearchGate](https://www.researchgate.net/profile/Yousef-Yousefi-7)
+> 📜 My official papers are being simultaneously submitted to:  
+> - [arXiv.org](https://arxiv.org)  
+> - [ResearchGate](https://www.researchgate.net/profile/Yousef-Yousefi-7)  
 > - [This Website](https://sgh-paradigm.github.io/Yousef-Yousefi/)
 
 Stay tuned for updates and new breakthroughs!
