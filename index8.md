@@ -6,105 +6,227 @@ description: "Welcome to the official website of Yousef Yousefi."
 permalink: /
 ---
 
+<style>
+
+.hero{
+padding:20px;
+border-radius:12px;
+background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+color:white;
+margin-bottom:25px;
+}
+
+.nav-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
+gap:12px;
+margin-bottom:30px;
+}
+
+.nav-card{
+padding:12px;
+border-radius:10px;
+background:#f4f7fa;
+text-align:center;
+font-weight:bold;
+box-shadow:0px 2px 6px rgba(0,0,0,0.15);
+transition:0.3s;
+}
+
+.nav-card:hover{
+transform:translateY(-3px);
+background:#dde8f5;
+}
+
+.sectionbox{
+
+padding:15px;
+border-left:5px solid #2c5364;
+background:#fafafa;
+margin-bottom:20px;
+border-radius:8px;
+
+}
+
+</style>
+
+
+<div class="hero">
+
 # 👋 Welcome to My Scientific World
 
-Hello, I am **Yousef Yousefi** — researcher, theorist, and lifelong explorer of the universe's deep structures.
+Hello — I am **Yousef Yousefi**, independent researcher and developer of the **Science Generalization Hypothesis (SGH)**.
 
-This website showcases my decades of scientific work organized into a series of **research generations**, each building upon the last. You can start with free introductory materials and then unlock deeper layers. All payments are handled via cryptocurrency (USDT/BTC) with a **pay‑what‑you‑want** option – you may pay less (or more) if you wish.
+This platform presents decades of research organized into progressive scientific generations.
+
+Free materials are available first — deeper layers unlock progressively.
+
+⭐ Cryptocurrency (USDT/BTC) Pay-What-You-Want Supported ⭐
+
+</div>
+
+
+---
+
+# 🏠 Navigation Center
+
+<div class="nav-grid">
+
+<a class="nav-card" href="/">🏠 Home</a>
+
+<a class="nav-card" href="/table-of-content/">📑 Table of Contents</a>
+
+<a class="nav-card" href="/license/">⚖️ License</a>
+
+<a class="nav-card" href="/support/">❤️ Support</a>
+
+<a class="nav-card" href="/contact/">📬 Contact</a>
+
+</div>
 
 ---
 
 ## 📚 Research Generations
 
+<div class="sectionbox">
+
 ### Primary (Free)
+
 - <a href="/preface/" target="_blank">Preface</a>
 - <a href="/introduction/" target="_blank">Introduction</a>
 
-### First Generation – Foundations of SGH (Suggested $10 for complete set – pay-what-you-want per chapter)
-- <a href="/first-gen/ch1/" target="_blank">Chapter 1: The Foundations of SGH: Dual-Realm Ontology, Dimensional Matrices, and the Quantity–Quality Principle</a>
-- <a href="/first-gen/ch2/" target="_blank">Chapter 2: The Creation Mechanism: Ontological Architecture, Primordial Extraction, and Empirical Consequences</a>
-- <a href="/first-gen/ch3/" target="_blank">Chapter 3: A Unified Classification Framework for Existence</a>
-- <a href="/first-gen/ch4/" target="_blank">Chapter 4: Mathematical Formalization of SGH: Category-Theoretic Structure of the Extraction Function, Segmentation, and the Eight-Mode Classification</a>
-- <a href="/first-gen/ch5/" target="_blank">Chapter 5: Physics Applications and the Empirical Roadmap: How SGH Grounds Quantum Mechanics, General Relativity, Particle Physics, and Cosmology</a>
-- <a href="/first-gen/ch6/" target="_blank">Chapter 6: Philosophical Implications and Open Questions: Consciousness, Fine-Tuning, Humanism, and the SGH Research Program</a>
-- <a href="/first-gen/ch7/" target="_blank">Chapter 7: Future Work: The SGH Research Roadmap</a>
+</div>
 
-### Second Generation – Mathematical Reconstruction (Suggested $5)
-- <a href="/second-gen/intro/" target="_blank">Roadmap: Toward Unification (Introduction)</a>
-- Mathematics Reconstruction Series:<br>
-  <a href="/second-gen/a-1-1/" target="_blank">A‑1‑1</a>, <a href="/second-gen/a-1-2/" target="_blank">A‑1‑2</a>, <a href="/second-gen/a-2-1/" target="_blank">A‑2‑1</a>, <a href="/second-gen/a-2-2/" target="_blank">A‑2‑2</a>, <a href="/second-gen/b-1-1/" target="_blank">B‑1‑1</a>, <a href="/second-gen/b-1-2/" target="_blank">B‑1‑2</a>, <a href="/second-gen/b-2-1/" target="_blank">B‑2‑1</a>, <a href="/second-gen/b-2-2/" target="_blank">B‑2‑2</a>
-- <a href="/second-gen/conclusion/" target="_blank">Conclusion</a>
-- Results 1–8:  
-  <a href="/second-gen/result1/" target="_blank">Result 1</a>, <a href="/second-gen/result2/" target="_blank">Result 2</a>, <a href="/second-gen/result3/" target="_blank">Result 3</a>, <a href="/second-gen/result4/" target="_blank">Result 4</a>, <a href="/second-gen/result5/" target="_blank">Result 5</a>, <a href="/second-gen/result6/" target="_blank">Result 6</a>, <a href="/second-gen/result7/" target="_blank">Result 7</a>, <a href="/second-gen/result8/" target="_blank">Result 8</a>
 
-### Third Generation – Triadic SGH (Suggested $50)
-- <a href="/third-gen/toward-generalization/" target="_blank">Toward Generalization and Unification</a>
-- <a href="/third-gen/triadic/" target="_blank">Triadic</a>
-- <a href="/third-gen/ch1/" target="_blank">Chapter 1: Foundational Ontological Framework</a>
-- <a href="/third-gen/ch2/" target="_blank">Chapter 2: Existence Creation Mechanism</a>
-- <a href="/third-gen/ch3/" target="_blank">Chapter 3: Unified Classification</a>
-- <a href="/third-gen/implications/" target="_blank">Implications of Chapter 3</a>
-- <a href="/third-gen/falsifiability/" target="_blank">Falsifiability</a>
-- <a href="/third-gen/future-work/" target="_blank">Future Work</a>
-- Results 1–15:  
-  <a href="/third-gen/result1/" target="_blank">1</a>, <a href="/third-gen/result2/" target="_blank">2</a>, <a href="/third-gen/result3/" target="_blank">3</a>, <a href="/third-gen/result4/" target="_blank">4</a>, <a href="/third-gen/result5/" target="_blank">5</a>, <a href="/third-gen/result6/" target="_blank">6</a>, <a href="/third-gen/result7/" target="_blank">7</a>, <a href="/third-gen/result8/" target="_blank">8</a>, <a href="/third-gen/result9/" target="_blank">9</a>, <a href="/third-gen/result10/" target="_blank">10</a>, <a href="/third-gen/result11/" target="_blank">11</a>, <a href="/third-gen/result12/" target="_blank">12</a>, <a href="/third-gen/result13/" target="_blank">13</a>, <a href="/third-gen/result14/" target="_blank">14</a>, <a href="/third-gen/result15/" target="_blank">15</a>
 
-### Fourth Generation – Octactan SGH (Suggested $100)
-- <a href="/fourth-gen/octactan/" target="_blank">Octactan SGH</a>
-- <a href="/fourth-gen/generalization/" target="_blank">Generalization</a>
-- <a href="/fourth-gen/implications1/" target="_blank">Implications (multiple)</a>
-- <a href="/fourth-gen/unification/" target="_blank">Unification</a>
-- <a href="/fourth-gen/future-work/" target="_blank">Future Work</a>
-- <a href="/fourth-gen/toward-gaexitizen/" target="_blank">Toward Gaexitizen</a>
+<div class="sectionbox">
 
-### Ultimate – Toward Gaexitizen (Suggested $100)
-- <a href="/ultimate/capstone/" target="_blank">Capstone synthesis of the entire framework</a>
+### First Generation — Foundations of SGH
 
----
+(Suggested $10 — Pay What You Want)
 
-## 🧩 Solved Paradoxes
+- <a href="/first-gen/ch1/" target="_blank">Chapter 1</a>
+- <a href="/first-gen/ch2/" target="_blank">Chapter 2</a>
+- <a href="/first-gen/ch3/" target="_blank">Chapter 3</a>
+- <a href="/first-gen/ch4/" target="_blank">Chapter 4</a>
+- <a href="/first-gen/ch5/" target="_blank">Chapter 5</a>
+- <a href="/first-gen/ch6/" target="_blank">Chapter 6</a>
+- <a href="/first-gen/ch7/" target="_blank">Chapter 7</a>
 
-I have resolved **over 200 foundational paradoxes** in philosophy, mathematics, and physics using the Science Generalization Hypothesis. These are available as separate collections:
+</div>
 
-- <a href="/paradoxes/first-gen/" target="_blank">First Generation Paradox Collection – **$500**</a>
-- <a href="/paradoxes/second-gen/" target="_blank">Second Generation Paradox Collection – **$1000**</a>
-- <a href="/paradoxes/third-gen/" target="_blank">Third Generation Paradox Collection – **$1000**</a>
-- <a href="/paradoxes/fourth-gen/" target="_blank">Fourth Generation Paradox Collection – **$2000**</a>
 
-👉 <a href="/paradoxes/" target="_blank">Browse All Solved Paradoxes</a> (individual paradoxes also available)
+<div class="sectionbox">
 
----
+### Second Generation — Mathematical Reconstruction
 
-## 🚀 Pioneer & Speculative Frontiers
+(Suggested $5)
 
-Based on the Science Generalization Hypothesis, I explore visionary possibilities that could reshape humanity’s future. These ideas are speculative today, but they illustrate the power of the framework:
+<a href="/second-gen/intro/" target="_blank">Introduction</a>
 
-- **Interstellar Travel:** How manipulating the reality parameter χ might enable new propulsion methods and even access to other dimensions.  
-- **Medical Revolutions:** Potential applications in cellular repair, reversing entropy, and understanding consciousness.  
-- **Next‑Gen Discovery Tools:** Detectors sensitive to χ‑transitions and experiments to reveal hidden structures in the cosmos.  
-- **Toward “UFO” Technology:** Engineering gravity and inertia by locally shifting χ – a path to revolutionary vehicles.
+Mathematics Series:
 
-👉 <a href="/pioneer/" target="_blank">Read More</a>
+A-1-1 • A-1-2 • A-2-1 • A-2-2 • B-1-1 • B-1-2 • B-2-1 • B-2-2
 
----
+Results 1-8 Available.
 
-## 📢 Latest News
+</div>
 
-> 📜 My official papers are being simultaneously submitted to:  
-> - <a href="https://arxiv.org" target="_blank">arXiv.org</a>  
-> - <a href="https://www.researchgate.net/profile/Yousef-Yousefi-7" target="_blank">ResearchGate</a>  
-> - <a href="https://sgh-paradigm.github.io/Yousef-Yousefi/" target="_blank">This Website</a>
 
-Stay tuned for updates and new breakthroughs!
+<div class="sectionbox">
+
+### Third Generation — Triadic SGH
+
+(Suggested $50)
+
+Toward Generalization • Triadic • Chapters 1-3 • Falsifiability • Future Work
+
+Results 1-15 Available.
+
+</div>
+
+
+<div class="sectionbox">
+
+### Fourth Generation — Octactan SGH
+
+(Suggested $100)
+
+Octactan • Generalization • Unification • Toward Gaexitizen
+
+</div>
+
+
+
+<div class="sectionbox">
+
+### Ultimate — Toward Gaexitizen
+
+Capstone synthesis of the entire framework.
+
+<a href="/ultimate/capstone/" target="_blank">Access Capstone</a>
+
+</div>
+
+
 
 ---
 
-## 📬 Get in Touch
+# 🧩 Solved Paradoxes
 
-Feel free to reach out for discussions, collaborations, or questions.  
-You can find all contact options on the <a href="/contact/" target="_blank">Contact</a> page.
+Over **200 foundational paradoxes** resolved across philosophy, mathematics and physics.
+
+- <a href="/paradoxes/first-gen/" target="_blank">First Generation</a>
+- <a href="/paradoxes/second-gen/" target="_blank">Second Generation</a>
+- <a href="/paradoxes/third-gen/" target="_blank">Third Generation</a>
+- <a href="/paradoxes/fourth-gen/" target="_blank">Fourth Generation</a>
+
+👉 <a href="/paradoxes/" target="_blank">Browse All</a>
+
+
 
 ---
 
-Thank you for visiting!  
-🌟 *Knowledge grows by sharing and expanding ideas.* 🌟
+# 🚀 Pioneer & Speculative Frontiers
+
+- Interstellar propulsion concepts
+- Medical entropy control research
+- χ-Transition detectors
+- Advanced gravity engineering
+
+👉 <a href="/pioneer/" target="_blank">Explore Pioneer Research</a>
+
+
+
+---
+
+# 📢 Latest News
+
+Official submissions ongoing:
+
+- https://arxiv.org
+- ResearchGate
+- This Website
+
+Stay tuned for updates.
+
+---
+
+# ❤️ Support This Research
+
+If SGH contributes to your research or inspiration:
+
+👉 <a href="/support/">Support Development</a>
+
+---
+
+# 📬 Contact
+
+Collaborations and discussions welcome.
+
+👉 <a href="/contact/">Contact Page</a>
+
+
+---
+
+🌟 Knowledge grows by sharing ideas 🌟
