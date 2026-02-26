@@ -19,7 +19,7 @@ body {
   font-family: 'Segoe UI', Roboto, Arial, sans-serif;
 }
 
-/* HEADER & TOP NAV (unchanged) */
+/* HEADER & TOP NAV */
 .site-header { background: transparent !important; box-shadow: none !important; }
 .cosmic-top-nav {
   position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;
@@ -37,7 +37,7 @@ body {
   box-shadow: 0 0 25px #38bdf8;
 }
 
-/* HERO (unchanged) */
+/* HERO */
 .hero {
   text-align: center; padding: 160px 20px 120px; margin: 80px auto 70px;
   max-width: 1100px; border-radius: 28px;
@@ -69,13 +69,54 @@ body {
 @keyframes neonFlicker { 0% {text-shadow:0 0 15px #67e8f9,0 0 35px #38bdf8,0 0 70px #0284c7;} 50% {text-shadow:0 0 25px #67e8f9,0 0 55px #38bdf8,0 0 100px #0284c7,0 0 140px #0369a1;} 100% {text-shadow:0 0 15px #67e8f9,0 0 35px #38bdf8,0 0 70px #0284c7;} }
 @keyframes slowPulse { 0%,100% {opacity:0.65;transform:scale(0.92);} 50% {opacity:1;transform:scale(1.08);} }
 
-/* CLEAN ROADMAP - EXACTLY LIKE YOUR PREVIOUS GOOD VERSION */
+/* TWO-COLUMN LAYOUT - SIDEBAR LEFT (30%) + MAIN RIGHT (70%) */
+.container {
+  display: flex;
+  max-width: 1280px;
+  margin: 40px auto;
+  gap: 40px;
+  padding: 0 20px;
+}
+.sidebar {
+  width: 30%;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(125,211,252,0.3);
+  border-radius: 16px;
+  padding: 28px;
+  height: fit-content;
+  box-shadow: 0 0 30px rgba(56,189,248,0.25);
+  position: sticky;
+  top: 100px;
+}
+.main-content {
+  width: 70%;
+}
+
+/* REFINED SIDEBAR - BEAUTIFUL & CENTERED */
+.sidebar h3 {
+  color: #67e8f9;
+  text-align: center;
+  margin-bottom: 20px;
+  text-shadow: 0 0 15px #38bdf8;
+}
+.author-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 4px solid #67e8f9;
+  box-shadow: 0 0 30px #38bdf8;
+  display: block;
+  margin: 0 auto 20px;
+}
+.sidebar p { text-align: center; line-height: 1.5; }
+.sidebar a { color: #7dd3fc; text-decoration: none; }
+.sidebar a:hover { color: #38bdf8; }
+
+/* ROADMAP - YOUR ORIGINAL CLEAN STRUCTURE */
 .roadmap {
   display: flex;
   flex-direction: column;
   gap: 26px;
-  max-width: 980px;
-  margin: 0 auto;
 }
 .gen {
   padding: 30px;
@@ -94,53 +135,10 @@ body {
   font-size: 30px;
 }
 
-/* TWO-COLUMN LAYOUT - SIDEBAR ON RIGHT, ROADMAP CENTERED */
-.container {
-  display: flex;
-  max-width: 1280px;
-  margin: 40px auto;
-  gap: 40px;
-  padding: 0 20px;
-}
-.main-content {
-  flex: 1;
-}
-.sidebar {
-  width: 320px;
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(125,211,252,0.3);
-  border-radius: 16px;
-  padding: 28px;
-  height: fit-content;
-  box-shadow: 0 0 30px rgba(56,189,248,0.25);
-  position: sticky;
-  top: 100px;
-}
-
-/* REFINED SIDEBAR - CENTERED & BEAUTIFUL */
-.sidebar h3 {
-  color: #67e8f9;
-  text-align: center;
-  margin-bottom: 20px;
-  text-shadow: 0 0 15px #38bdf8;
-}
-.author-photo {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  border: 4px solid #67e8f9;
-  box-shadow: 0 0 30px #38bdf8;
-  display: block;
-  margin: 0 auto 20px;
-}
-.sidebar p { text-align: center; }
-.sidebar a { color: #7dd3fc; text-decoration: none; }
-.sidebar a:hover { color: #38bdf8; }
-
-/* MOBILE - SIDEBAR GOES BELOW (no scrambling) */
+/* MOBILE - SIDEBAR GOES ON TOP */
 @media (max-width: 992px) {
   .container { flex-direction: column; }
-  .sidebar { width: 100%; position: static; }
+  .sidebar, .main-content { width: 100%; }
 }
 </style>
 
@@ -163,7 +161,34 @@ body {
 </div>
 
 <div class="container">
-  <!-- MAIN CONTENT - EXACTLY YOUR PREVIOUS CLEAN STRUCTURE -->
+  <!-- LEFT SIDEBAR - AUTHOR INFORMATION -->
+  <div class="sidebar">
+    <h3>ABOUT THE AUTHOR</h3>
+    
+    <img src="https://via.placeholder.com/140" alt="Yousef Yousefi" class="author-photo">
+    
+    <p><strong>Yousef Yousefi</strong><br>
+    Independent Researcher<br>
+    Creator of the Science Generalization Hypothesis (SGH)</p>
+    
+    <p>After more than a decade of independent research in metaphysics, mathematics, and modern physics, I developed SGH as the first complete primordial ontological framework that begins logically prior to spacetime and physical law.</p>
+    
+    <hr style="border-color:rgba(125,211,252,0.3);margin:20px 0;">
+    
+    <strong>Contact & Links</strong><br>
+    📧 <a href="mailto:yousefyousefi191@gmail.com">yousefyousefi191@gmail.com</a><br><br>
+    🔬 <a href="https://www.researchgate.net/profile/Yousef-Yousefi-7" target="_blank">ResearchGate</a><br>
+    📄 <a href="https://arxiv.org" target="_blank">arXiv Submissions</a><br>
+    🌐 This Website
+    
+    <hr style="border-color:rgba(125,211,252,0.3);margin:20px 0;">
+    
+    <p style="font-size:14px;opacity:0.85;text-align:center;">
+      © 2026 Yousef Yousefi — All rights reserved
+    </p>
+  </div>
+
+  <!-- MAIN CONTENT - YOUR ROADMAP (70%) -->
   <div class="main-content">
     # 🌌 SGH Research Generations & Pricing
 
@@ -254,38 +279,10 @@ body {
       </div>
     </div>
   </div>
-
-  <!-- REFINED SIDEBAR - PERFECTLY CENTERED -->
-  <div class="sidebar">
-    <h3>ABOUT THE AUTHOR</h3>
-    
-    <img src="https://via.placeholder.com/140" alt="Yousef Yousefi" class="author-photo">
-    
-    <p><strong>Yousef Yousefi</strong><br>
-    Independent Researcher<br>
-    Creator of SGH</p>
-    
-    <p style="text-align:center;">
-      After more than a decade of independent research in metaphysics, mathematics, and modern physics, I developed the Science Generalization Hypothesis (SGH) as the first complete primordial ontological framework that begins logically prior to spacetime and physical law.
-    </p>
-    
-    <hr style="border-color:rgba(125,211,252,0.3);margin:20px 0;">
-    
-    <strong>Contact</strong><br>
-    📧 <a href="mailto:yousefyousefi191@gmail.com">yousefyousefi191@gmail.com</a><br><br>
-    🔬 <a href="https://www.researchgate.net/profile/Yousef-Yousefi-7" target="_blank">ResearchGate</a><br>
-    📄 <a href="https://arxiv.org" target="_blank">arXiv Submissions</a><br>
-    🌐 This Website
-    
-    <hr style="border-color:rgba(125,211,252,0.3);margin:20px 0;">
-    
-    <p style="font-size:14px;opacity:0.85;text-align:center;">
-      © 2026 Yousef Yousefi — All rights reserved
-    </p>
-  </div>
 </div>
 
 ---
 
 ⭐ Knowledge expands through structured discovery.  
-**All payments via cryptocurrency (USDT/BTC) – pay-what-you-want option available.**
+**All payments via cryptocurrency (USDT/BTC) – pay-what-you-want option available.**  
+© 2026 Yousef Yousefi — All rights reserved
