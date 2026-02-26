@@ -5,49 +5,135 @@ nav_order: 1
 permalink: /
 ---
 
-
 <style>
 
-/* HERO */
+/* ===== GLOBAL ===== */
 
-.hero{
+body{
 
-background:linear-gradient(140deg,#000428,#004e92);
-
-padding:80px;
-
-border-radius:14px;
-
-color:white;
-
-text-align:center;
-
-margin-bottom:35px;
-
-box-shadow:0px 10px 25px rgba(0,0,0,.4);
+font-family: "Segoe UI",Roboto,Arial,sans-serif;
 
 }
 
 
-/* BUTTON */
+/* ===== SGH TITLE HERO ===== */
 
-.bigbtn{
+.hero{
 
-display:inline-block;
+background:linear-gradient(135deg,#020024,#090979,#00d4ff);
 
-padding:14px 22px;
+padding:70px 20px;
 
-margin:8px;
+text-align:center;
 
-border-radius:9px;
-
-background:#00aaff;
+border-radius:15px;
 
 color:white;
 
-font-weight:bold;
+margin-bottom:30px;
+
+box-shadow:0px 12px 30px rgba(0,0,0,.35);
+
+}
+
+
+/* BIG TITLE */
+
+.herotitle{
+
+font-size:58px;
+
+font-weight:800;
+
+letter-spacing:2px;
+
+text-shadow:0px 4px 12px rgba(0,0,0,.6);
+
+margin-bottom:10px;
+
+}
+
+
+/* subtitle */
+
+.subtitle{
+
+font-size:22px;
+
+opacity:.95;
+
+margin-bottom:25px;
+
+}
+
+
+
+/* ===== TOP NAVIGATION ===== */
+
+.topnav{
+
+display:flex;
+
+justify-content:center;
+
+flex-wrap:wrap;
+
+gap:18px;
+
+margin-bottom:35px;
+
+}
+
+
+.tab{
+
+padding:12px 20px;
+
+border-radius:25px;
+
+background:#f1f5fb;
+
+font-weight:600;
 
 text-decoration:none;
+
+box-shadow:0px 3px 8px rgba(0,0,0,.2);
+
+transition:.3s;
+
+}
+
+
+.tab:hover{
+
+background:#004e92;
+
+color:white;
+
+transform:translateY(-3px);
+
+}
+
+
+/* ===== BUTTONS ===== */
+
+.bigbtn{
+
+padding:14px 24px;
+
+background:#00aaff;
+
+border-radius:8px;
+
+color:white;
+
+text-decoration:none;
+
+font-weight:bold;
+
+margin:6px;
+
+display:inline-block;
 
 transition:.3s;
 
@@ -57,12 +143,10 @@ transition:.3s;
 
 background:#0085cc;
 
-transform:translateY(-2px);
-
 }
 
 
-/* ROADMAP */
+/* ===== ROADMAP ===== */
 
 .roadmap{
 
@@ -70,7 +154,7 @@ display:flex;
 
 flex-direction:column;
 
-gap:20px;
+gap:22px;
 
 margin-top:30px;
 
@@ -79,13 +163,13 @@ margin-top:30px;
 
 .gen{
 
-padding:25px;
+padding:28px;
 
-border-radius:12px;
+background:#f7f9fc;
 
-background:#f4f7fb;
+border-radius:14px;
 
-box-shadow:0px 4px 12px rgba(0,0,0,.18);
+box-shadow:0px 4px 12px rgba(0,0,0,.2);
 
 transition:.3s;
 
@@ -93,12 +177,10 @@ transition:.3s;
 
 .gen:hover{
 
-transform:translateX(8px);
+transform:translateX(10px);
 
 }
 
-
-/* ARROW */
 
 .arrow{
 
@@ -111,13 +193,13 @@ font-weight:bold;
 }
 
 
-/* GRID */
+/* ===== GRID ===== */
 
 .grid{
 
 display:grid;
 
-grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
 
 gap:20px;
 
@@ -127,13 +209,13 @@ margin-top:30px;
 
 .card{
 
-padding:22px;
+padding:24px;
 
-background:#f7f9fc;
+background:#fafcff;
 
-border-radius:10px;
+border-radius:12px;
 
-box-shadow:0px 3px 8px rgba(0,0,0,.15);
+box-shadow:0px 3px 10px rgba(0,0,0,.18);
 
 transition:.3s;
 
@@ -141,7 +223,7 @@ transition:.3s;
 
 .card:hover{
 
-transform:translateY(-5px);
+transform:translateY(-6px);
 
 }
 
@@ -149,25 +231,23 @@ transform:translateY(-5px);
 
 
 
+<!-- HERO -->
+
 <div class="hero">
 
-# Science Generalization Hypothesis
+<div class="herotitle">
 
-## Toward a Unified Ontology of Reality
+Science Generalization Hypothesis (SGH)
+
+</div>
+
+<div class="subtitle">
+
+Toward a Unified Ontology of Reality
 
 Ontology • Mathematics • Physics • Consciousness
 
----
-
-### A Multi-Generation Scientific Research Program
-
-Author:
-
-**Yousef Yousefi**
-
-Independent Researcher
-
-<br><br>
+</div>
 
 <a href="/preface/" class="bigbtn">
 
@@ -175,17 +255,53 @@ Start Free Materials
 
 </a>
 
-
 <a href="/paradoxes/" class="bigbtn">
 
 Solved Paradoxes
 
 </a>
 
-
 <a href="/support/" class="bigbtn">
 
-Support Research
+Support Mission
+
+</a>
+
+</div>
+
+
+
+<!-- TOP NAVIGATION -->
+
+<div class="topnav">
+
+<a class="tab" href="/table-of-content/">
+
+📚 Table of Contents
+
+</a>
+
+<a class="tab" href="/contact/">
+
+📬 Contact
+
+</a>
+
+<a class="tab" href="/support/">
+
+❤️ Support the Mission
+
+</a>
+
+<a class="tab" href="/feedback/">
+
+💡 Feedback
+
+</a>
+
+<a class="tab" href="/license/">
+
+⚖️ License
 
 </a>
 
@@ -195,20 +311,22 @@ Support Research
 
 # 🌌 SGH Research Roadmap
 
-A progressive scientific ascent toward unified knowledge.
+A progressive scientific ascent across generations of discovery.
+
+
 
 <div class="roadmap">
 
-
 <div class="gen">
 
-# PRIMARY — FREE ENTRY
+## PRIMARY — FREE ENTRY
 
-Preface and Introduction.
+Preface + Introduction.
 
 <a href="/preface/">Enter →</a>
 
 </div>
+
 
 <div class="arrow">
 
@@ -219,7 +337,7 @@ Preface and Introduction.
 
 <div class="gen">
 
-# FIRST GENERATION
+## FIRST GENERATION
 
 Ontology Foundations.
 
@@ -228,6 +346,7 @@ Ontology Foundations.
 </div>
 
 
+
 <div class="arrow">
 
 ↓
@@ -237,7 +356,7 @@ Ontology Foundations.
 
 <div class="gen">
 
-# SECOND GENERATION
+## SECOND GENERATION
 
 Mathematical Reconstruction.
 
@@ -256,7 +375,7 @@ Mathematical Reconstruction.
 
 <div class="gen">
 
-# THIRD GENERATION
+## THIRD GENERATION
 
 Triadic SGH.
 
@@ -273,9 +392,10 @@ Triadic SGH.
 </div>
 
 
+
 <div class="gen">
 
-# FOURTH GENERATION
+## FOURTH GENERATION
 
 Octactan SGH.
 
@@ -292,10 +412,9 @@ Octactan SGH.
 </div>
 
 
-
 <div class="gen">
 
-# ULTIMATE
+## ULTIMATE
 
 Toward Gaexitizen.
 
@@ -314,12 +433,9 @@ Toward Gaexitizen.
 
 <div class="grid">
 
-
 <div class="card">
 
 ## Research Library
-
-All Chapters.
 
 <a href="/library/">Open →</a>
 
@@ -337,38 +453,24 @@ All Chapters.
 </div>
 
 
+
 <div class="card">
 
-## Future Roadmap
-
-Experiments + χ Research.
+## Future Research
 
 <a href="/roadmap/">See Vision →</a>
 
 </div>
 
 
-<div class="card">
-
-## License
-
-CC BY 4.0.
-
-<a href="/license/">View →</a>
-
-</div>
-
 
 <div class="card">
 
-## Contact
-
-Collaborate.
+## Collaborations
 
 <a href="/contact/">Contact →</a>
 
 </div>
-
 
 </div>
 
