@@ -55,6 +55,7 @@ body {
   background: #f1f5fb;
   font-weight: 600;
   text-decoration: none;
+  color: #004e92;
   box-shadow: 0px 3px 8px rgba(0,0,0,.2);
   transition: .3s;
 }
@@ -107,25 +108,14 @@ body {
   padding-left: 20px;
 }
 
-/* ===== GRID ===== */
+/* ===== ADDITIONAL SECTIONS ===== */
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  margin-top: 30px;
-}
-
-.card {
-  padding: 24px;
+.pioneer, .news, .contact {
+  margin-top: 40px;
+  padding: 20px;
   background: #fafcff;
   border-radius: 12px;
   box-shadow: 0px 3px 10px rgba(0,0,0,.18);
-  transition: .3s;
-}
-
-.card:hover {
-  transform: translateY(-6px);
 }
 
 </style>
@@ -254,58 +244,38 @@ Click on any generation heading to access its overview page. Detailed contents a
   </ul>
 </div>
 
-<!-- GRID CARDS FOR QUICK ACCESS -->
-<div class="grid">
-  <div class="card">
-    <h3>Research Library</h3>
-    <a href="/library/" target="_blank">Open →</a>
-  </div>
-  <div class="card">
-    <h3>Solved Paradoxes</h3>
-    <p>200+ Resolutions.</p>
-    <a href="/paradoxes/" target="_blank">Browse →</a>
-  </div>
-  <div class="card">
-    <h3>Future Research</h3>
-    <a href="/roadmap/" target="_blank">See Vision →</a>
-  </div>
-  <div class="card">
-    <h3>Collaborations</h3>
-    <a href="/contact/" target="_blank">Contact →</a>
-  </div>
+<!-- PIONEER SECTION -->
+<div class="pioneer">
+  <h2>🚀 Pioneer & Speculative Frontiers</h2>
+  <p>Based on the Science Generalization Hypothesis, I explore visionary possibilities that could reshape humanity’s future. These ideas are speculative today, but they illustrate the power of the framework:</p>
+  <ul>
+    <li><strong>Interstellar Travel:</strong> How manipulating the reality parameter χ might enable new propulsion methods and even access to other dimensions.</li>
+    <li><strong>Medical Revolutions:</strong> Potential applications in cellular repair, reversing entropy, and understanding consciousness.</li>
+    <li><strong>Next‑Gen Discovery Tools:</strong> Detectors sensitive to χ‑transitions and experiments to reveal hidden structures in the cosmos.</li>
+    <li><strong>Toward “UFO” Technology:</strong> Engineering gravity and inertia by locally shifting χ – a path to revolutionary vehicles.</li>
+  </ul>
+  <p>👉 <a href="/pioneer/" target="_blank">Read More</a></p>
 </div>
 
----
+<!-- LATEST NEWS -->
+<div class="news">
+  <h2>📢 Latest News</h2>
+  <blockquote>
+    📜 My official papers are being simultaneously submitted to:<br>
+    - <a href="https://arxiv.org" target="_blank">arXiv.org</a><br>
+    - <a href="https://www.researchgate.net/profile/Yousef-Yousefi-7" target="_blank">ResearchGate</a><br>
+    - <a href="https://sgh-paradigm.github.io/Yousef-Yousefi/" target="_blank">This Website</a>
+  </blockquote>
+  <p>Stay tuned for updates and new breakthroughs!</p>
+</div>
 
-## 🚀 Pioneer & Speculative Frontiers
+<!-- GET IN TOUCH -->
+<div class="contact">
+  <h2>📬 Get in Touch</h2>
+  <p>Feel free to reach out for discussions, collaborations, or questions.<br>
+  You can find all contact options on the <a href="/contact/" target="_blank">Contact</a> page.</p>
+</div>
 
-Based on the Science Generalization Hypothesis, I explore visionary possibilities that could reshape humanity’s future. These ideas are speculative today, but they illustrate the power of the framework:
+<hr>
 
-- **Interstellar Travel:** How manipulating the reality parameter χ might enable new propulsion methods and even access to other dimensions.
-- **Medical Revolutions:** Potential applications in cellular repair, reversing entropy, and understanding consciousness.
-- **Next‑Gen Discovery Tools:** Detectors sensitive to χ‑transitions and experiments to reveal hidden structures in the cosmos.
-- **Toward “UFO” Technology:** Engineering gravity and inertia by locally shifting χ – a path to revolutionary vehicles.
-
-👉 <a href="/pioneer/" target="_blank">Read More</a>
-
----
-
-## 📢 Latest News
-
-> 📜 My official papers are being simultaneously submitted to:  
-> - <a href="https://arxiv.org" target="_blank">arXiv.org</a>  
-> - <a href="https://www.researchgate.net/profile/Yousef-Yousefi-7" target="_blank">ResearchGate</a>  
-> - <a href="https://sgh-paradigm.github.io/Yousef-Yousefi/" target="_blank">This Website</a>
-
-Stay tuned for updates and new breakthroughs!
-
----
-
-## 📬 Get in Touch
-
-Feel free to reach out for discussions, collaborations, or questions.  
-You can find all contact options on the <a href="/contact/" target="_blank">Contact</a> page.
-
----
-
-⭐ *Knowledge grows by sharing and expanding ideas.*
+<p style="text-align:center;">⭐ <em>Knowledge grows by sharing and expanding ideas.</em> ⭐</p>
