@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Primery Generation
+title: Primery 
 permalink: /primary/
 ---
 
-# 📘 Primery Generation
+# 📘 Primery 
 
 **All materials are free** – no payment required.
 
