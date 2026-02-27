@@ -31,8 +31,8 @@ Each item can be purchased separately. Click the **Pay Now** link to proceed.
 
 | Item | Price (USD) | Payment |
 |------|-------------|---------|
-| Introduction | 100 | [Pay Now](intro-first-gen-pay/) |
-| **Chapter 1: Foundations of SGH** | **100** | **[Pay Now](https://nowpayments.io/payment/?iid=6240957813)** |
+| **Introduction** | **100** | **[Pay Now](https://nowpayments.io/payment/?iid=6420922335)** |
+| Chapter 1: Foundations of SGH | 100 | [Pay Now](https://nowpayments.io/payment/?iid=6240957813) |
 | Chapter 2: The Creation Mechanism | 100 | [Pay Now](ch2-first-gen-pay/) |
 | Chapter 3: Unified Classification | 100 | [Pay Now](ch3-first-gen-pay/) |
 | Chapter 4: Mathematical Formalization | 100 | [Pay Now](ch4-first-gen-pay/) |
