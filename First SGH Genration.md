@@ -21,29 +21,31 @@ This generation lays the foundational ontology of the Science Generalization Hyp
 - **Chapter 5:** Physics Applications & Roadmap – How SGH grounds quantum mechanics, relativity, and cosmology.
 - **Chapter 6:** Philosophical Implications – Addressing free will, consciousness, and the nature of reality.
 - **Chapter 7:** Research Roadmap – Future directions and experimental predictions.
-- **Solved Paradox** – A collection of foundational paradoxes resolved by SGH.
+- **Compatibility & the Solved Paradox** – A collection of foundational paradoxes resolved by SGH.
 
 ---
 
-### 💎 Individual Chapters
+## 💎 Individual Items – Prices and Payment Links
 
-Each chapter is available separately for **10 USD**:
+Each item can be purchased separately. Click the **Pay Now** link to proceed.
 
-- [Introduction →](intro-first-gen/)
-- [Chapter 1 →](ch1-first-gen/)
-- [Chapter 2 →](ch2-first-gen/)
-- [Chapter 3 →](ch3-first-gen/)
-- [Chapter 4 →](ch4-first-gen/)
-- [Chapter 5 →](ch5-first-gen/)
-- [Chapter 6 →](ch6-first-gen/)
-- [Chapter 7 →](ch7-first-gen/)
-- [Solved Paradox →](solved-paradox-first-gen/)
+| Item | Price (USD) | Payment |
+|------|-------------|---------|
+| Introduction | 100 | [Pay Now](intro-first-gen-pay/) |
+| Chapter 1: Foundations of SGH | 100 | [Pay Now](ch1-first-gen-pay/) |
+| Chapter 2: The Creation Mechanism | 100 | [Pay Now](ch2-first-gen-pay/) |
+| Chapter 3: Unified Classification | 100 | [Pay Now](ch3-first-gen-pay/) |
+| Chapter 4: Mathematical Formalization | 100 | [Pay Now](ch4-first-gen-pay/) |
+| Chapter 5: Physics Applications & Roadmap | 100 | [Pay Now](ch5-first-gen-pay/) |
+| Chapter 6: Philosophical Implications | 100 | [Pay Now](ch6-first-gen-pay/) |
+| Chapter 7: Research Roadmap | 100 | [Pay Now](ch7-first-gen-pay/) |
+| Compatibility & the Solved Paradox | 500 | [Pay Now](solved-paradox-first-gen-pay/) |
 
 ---
 
-## 💳 Support the Research
+## 💳 Support the Research – Complete Set
 
-Your contributions make this work possible. After payment, you'll receive a download link immediately.
+Prefer the whole bundle? Use the button below. After payment, you'll receive a single download link with all chapters.
 
 <!-- NOWPayments White Payment Button -->
 <a href="https://nowpayments.io/payment/?iid=YOUR_IID_HERE&source=button" target="_blank" rel="noreferrer noopener">
