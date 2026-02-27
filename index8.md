@@ -201,6 +201,13 @@ hr {
 Click on any generation heading to access its overview page. Detailed contents are listed below each heading for reference.
 
 <!-- GENERATION CARDS (DETAILED LISTS) -->
+<div class="gen">
+  <h3><a href="/primary/" target="_blank">primery</a></h3>
+  <ul>
+    <li>preface</li>
+    <li>introduction</li>
+  </ul>
+</div>
 
 <!-- Pre-SGH genration -->
 <div class="gen">
@@ -217,13 +224,7 @@ Click on any generation heading to access its overview page. Detailed contents a
   </ul>
 </div>
 
-<div class="gen">
-  <h3><a href="/primary/" target="_blank">primery</a></h3>
-  <ul>
-    <li>preface</li>
-    <li>introduction</li>
-  </ul>
-</div>
+
 
 <div class="gen">
   <h3><a href="/first-gen/" target="_blank">first SGH genration</a></h3>
