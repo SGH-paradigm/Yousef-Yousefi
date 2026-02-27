@@ -32,7 +32,7 @@ Each item can be purchased separately. Click the **Pay Now** link to proceed.
 | Item | Price (USD) | Payment |
 |------|-------------|---------|
 | Introduction | 100 | [Pay Now](intro-first-gen-pay/) |
-| Chapter 1: Foundations of SGH | 100 | [Pay Now](ch1-first-gen-pay/) |
+| **Chapter 1: Foundations of SGH** | **100** | **[Pay Now](https://nowpayments.io/payment/?iid=6240957813)** |
 | Chapter 2: The Creation Mechanism | 100 | [Pay Now](ch2-first-gen-pay/) |
 | Chapter 3: Unified Classification | 100 | [Pay Now](ch3-first-gen-pay/) |
 | Chapter 4: Mathematical Formalization | 100 | [Pay Now](ch4-first-gen-pay/) |
@@ -45,10 +45,10 @@ Each item can be purchased separately. Click the **Pay Now** link to proceed.
 
 ## 💳 Support the Research – Complete Set
 
-Prefer the whole bundle? Use the button below. After payment, you'll receive a single download link with all chapters.
+Prefer the whole bundle? Get all 9 items together. After payment, you'll receive a single download link with all chapters.
 
 <!-- NOWPayments White Payment Button -->
-<a href="https://nowpayments.io/payment/?iid=YOUR_IID_HERE&source=button" target="_blank" rel="noreferrer noopener">
+<a href="https://nowpayments.io/payment/?iid=YOUR_BUNDLE_IID_HERE&source=button" target="_blank" rel="noreferrer noopener">
   <img src="https://nowpayments.io/images/embeds/payment-button-white.svg" alt="Cryptocurrency & Bitcoin payment button by NOWPayments">
 </a>
 
