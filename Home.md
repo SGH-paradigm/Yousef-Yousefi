@@ -12,10 +12,10 @@ permalink: /
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
   color: #1e2a3a;
+  line-height: 1.6;
 }
 
 /* ===== EXPAND THE MAIN CONTAINER ===== */
-/* Override Minima's default wrapper width */
 .wrapper {
   max-width: 1400px !important;
   margin: 0 auto !important;
@@ -24,7 +24,6 @@ body {
   width: 100% !important;
 }
 
-/* Ensure the content area uses full width */
 .page-content {
   padding: 30px 0;
   width: 100%;
@@ -54,6 +53,7 @@ body {
   font-size: 22px;
   opacity: .95;
   margin-bottom: 25px;
+  text-shadow: 0px 2px 4px rgba(0,0,0,.3);
 }
 
 /* ===== TOP NAVIGATION ===== */
@@ -76,6 +76,7 @@ body {
   box-shadow: 0px 3px 8px rgba(0,0,0,.2);
   transition: .3s;
   border: 1px solid transparent;
+  font-size: 1.05rem;
 }
 
 .tab:hover {
@@ -98,11 +99,13 @@ body {
   display: inline-block;
   transition: .3s;
   border: 1px solid transparent;
+  box-shadow: 0px 4px 10px rgba(0,0,0,.2);
 }
 
 .bigbtn:hover {
   background: #0085cc;
   border-color: white;
+  transform: scale(1.02);
 }
 
 /* ===== PROFILE SIDEBAR & MAIN CONTENT LAYOUT ===== */
@@ -113,9 +116,9 @@ body {
   width: 100%;
 }
 
-/* Sidebar styles - slightly wider now */
+/* Sidebar styles */
 .profile-sidebar {
-  flex: 0 0 320px; /* increased from 280px */
+  flex: 0 0 320px;
   background: #f0f7ff;
   border-radius: 14px;
   padding: 25px 20px;
@@ -166,28 +169,13 @@ body {
   margin-bottom: 15px;
 }
 
-/* Main content area - takes remaining space */
+/* Main content area */
 .main-content {
   flex: 1;
   min-width: 0;
 }
 
-/* Responsive: stack on mobile */
-@media (max-width: 768px) {
-  .content-wrapper {
-    flex-direction: column;
-  }
-  .profile-sidebar {
-    flex: auto;
-    width: 100%;
-  }
-  .wrapper {
-    padding-left: 15px !important;
-    padding-right: 15px !important;
-  }
-}
-
-/* ===== GENERATION CARDS ===== */
+/* ===== GENERATION CARDS (ENHANCED) ===== */
 
 .gen {
   padding: 28px;
@@ -203,11 +191,17 @@ body {
   transform: translateX(10px);
   background: #e3f0ff;
   border-left-color: #004e92;
+  box-shadow: 0px 8px 20px rgba(0,100,200,0.2);
 }
 
 .gen h2, .gen h3 {
   margin-top: 0;
   color: #004e92;
+  font-weight: bold;
+  font-style: italic;
+  text-shadow: 1px 1px 2px rgba(0,170,255,0.2);
+  font-size: 1.6rem;
+  margin-bottom: 15px;
 }
 
 .gen h3 a {
@@ -228,7 +222,16 @@ body {
 }
 
 .gen li {
-  margin-bottom: 4px;
+  margin-bottom: 6px;
+  font-size: 1.05rem;
+}
+
+/* Add book icon before generation headings */
+.gen h3::before {
+  content: "📘 ";
+  font-size: 1.8rem;
+  vertical-align: middle;
+  margin-right: 5px;
 }
 
 /* ===== ADDITIONAL SECTIONS ===== */
@@ -244,6 +247,10 @@ body {
 
 .pioneer h2, .news h2, .contact h2 {
   color: #004e92;
+  font-weight: bold;
+  font-style: italic;
+  text-shadow: 1px 1px 2px rgba(0,170,255,0.2);
+  font-size: 1.8rem;
 }
 
 .pioneer a, .news a, .contact a {
@@ -265,6 +272,7 @@ blockquote {
   border-left: 4px solid #00aaff;
   margin: 0;
   color: #1e2a3a;
+  box-shadow: 0px 2px 6px rgba(0,0,0,.1);
 }
 
 hr {
@@ -272,6 +280,91 @@ hr {
   height: 2px;
   background: linear-gradient(90deg, transparent, #00aaff, transparent);
   margin: 30px 0;
+}
+
+/* ===== STYLE THEME HEADER TO MATCH CUSTOM TABS ===== */
+.site-header {
+  background: linear-gradient(135deg, #020024, #090979, #00d4ff);
+  border-top: none;
+  box-shadow: 0px 4px 12px rgba(0,0,0,.2);
+}
+
+.site-title {
+  color: white !important;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-shadow: 0px 2px 6px rgba(0,0,0,.4);
+}
+
+.site-nav {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.site-nav .page-link {
+  padding: 12px 20px !important;
+  border-radius: 25px !important;
+  background: #e6f0ff !important;
+  font-weight: 600 !important;
+  color: #004e92 !important;
+  box-shadow: 0px 3px 8px rgba(0,0,0,.2) !important;
+  transition: .3s !important;
+  margin: 0 4px !important;
+  display: inline-block;
+  line-height: normal;
+  border: 1px solid transparent !important;
+  text-decoration: none !important;
+}
+
+.site-nav .page-link:hover {
+  background: #004e92 !important;
+  color: white !important;
+  transform: translateY(-3px) !important;
+  border-color: #00aaff !important;
+  box-shadow: 0px 6px 12px rgba(0,0,0,.3) !important;
+}
+
+.site-nav .menu-icon svg {
+  fill: white;
+}
+
+/* ===== RESPONSIVE ADJUSTMENTS ===== */
+@media (max-width: 768px) {
+  .content-wrapper {
+    flex-direction: column;
+  }
+  .profile-sidebar {
+    flex: auto;
+    width: 100%;
+  }
+  .wrapper {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  .herotitle {
+    font-size: 36px;
+  }
+  .subtitle {
+    font-size: 18px;
+  }
+  .gen h3 {
+    font-size: 1.3rem;
+  }
+  .gen h3::before {
+    font-size: 1.5rem;
+  }
+  .topnav {
+    gap: 10px;
+  }
+  .tab {
+    padding: 8px 12px;
+    font-size: 0.9rem;
+  }
+  .site-nav .page-link {
+    padding: 8px 12px !important;
+    font-size: 0.9rem !important;
+  }
 }
 
 </style>
@@ -318,7 +411,7 @@ hr {
 
     <!-- GENERATION CARDS (DETAILED LISTS) -->
     <div class="gen">
-      <h3><a href="/primary/" target="_blank">primery</a></h3>
+      <h3><a href="/primary/" target="_blank">Primery</a></h3>
       <ul>
         <li>preface</li>
         <li>introduction</li>
@@ -327,7 +420,7 @@ hr {
 
     <!-- Pre-SGH genration -->
     <div class="gen">
-      <h3><a href="/pre-sgh/" target="_blank">Pre-SGH genration</a></h3>
+      <h3><a href="/pre-sgh/" target="_blank">Pre-SGH Genration</a></h3>
       <ul>
         <li>introduction</li>
         <li>Chapter 1: Constraint-Induced Concentration in High-Dimensional Function Spaces:<br>Geometric Regularities and Entropy Maximization</li>
@@ -341,7 +434,7 @@ hr {
     </div>
 
     <div class="gen">
-      <h3><a href="/first-gen/" target="_blank">first SGH genration</a></h3>
+      <h3><a href="/first-gen/" target="_blank">First SGH Genration</a></h3>
       <ul>
         <li>introduction</li>
         <li>Chapter 1: Foundations of SGH</li>
@@ -356,7 +449,7 @@ hr {
     </div>
 
     <div class="gen">
-      <h3><a href="/second-gen/" target="_blank">Second genration</a></h3>
+      <h3><a href="/second-gen/" target="_blank">Second Genration</a></h3>
       <ul>
         <li>Sience Genralization Hypothese road map toward unification intoduction:<br>Toward Uinification</li>
         <li>SGH-Matematics Recounstrction : <br>A-1-1:</li>
@@ -413,7 +506,7 @@ hr {
     </div>
 
     <div class="gen">
-      <h3><a href="/fourth-gen/" target="_blank">forth genration</a></h3>
+      <h3><a href="/fourth-gen/" target="_blank">Forth Genration</a></h3>
       <ul>
         <li>paradox</li>
         <li>Octactan SGH</li>
