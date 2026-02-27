@@ -7,7 +7,7 @@ theme: minima
 
 header_pages:
   - Home.md
-  - table-of-contents.md
+  - 📚table-of-contents.md
   - contact.md
   - support-the-mission.md
   - feedback.md
