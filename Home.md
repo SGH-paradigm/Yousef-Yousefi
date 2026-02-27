@@ -329,6 +329,32 @@ hr {
   fill: white;
 }
 
+/* ===== CENTRALIZE THEME HEADER (TITLE ABOVE TABS) ===== */
+.site-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px 0; /* vertical spacing */
+}
+
+.site-title {
+  float: none !important;
+  margin: 0 0 10px 0 !important; /* space below title */
+  font-size: 1.8rem; /* adjust as desired */
+}
+
+.site-nav {
+  float: none !important;
+  text-align: center;
+  line-height: normal;
+}
+
+.site-nav .page-link {
+  display: inline-block;
+  margin: 0 5px; /* spacing between tabs */
+}
+
 /* ===== RESPONSIVE ADJUSTMENTS ===== */
 @media (max-width: 768px) {
   .content-wrapper {
