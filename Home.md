@@ -437,8 +437,7 @@ hr {
 
     <!-- GENERATION CARDS (DETAILED LISTS) -->
     <div class="gen">
-      <h3><a href="/primary/" target="_blank">Primery</a></h3>
-      <ul>
+<h3><a href="primary/" target="_blank">Primery</a></h3>      <ul>
         <li>preface</li>
         <li>introduction</li>
       </ul>
