@@ -11,6 +11,7 @@ permalink: /
 
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: #1e2a3a;
 }
 
 /* ===== SGH TITLE HERO ===== */
@@ -52,18 +53,20 @@ body {
 .tab {
   padding: 12px 20px;
   border-radius: 25px;
-  background: #f1f5fb;
+  background: #e6f0ff;
   font-weight: 600;
   text-decoration: none;
   color: #004e92;
   box-shadow: 0px 3px 8px rgba(0,0,0,.2);
   transition: .3s;
+  border: 1px solid transparent;
 }
 
 .tab:hover {
   background: #004e92;
   color: white;
   transform: translateY(-3px);
+  border-color: #00aaff;
 }
 
 /* ===== BUTTONS ===== */
@@ -78,10 +81,12 @@ body {
   margin: 6px;
   display: inline-block;
   transition: .3s;
+  border: 1px solid transparent;
 }
 
 .bigbtn:hover {
   background: #0085cc;
+  border-color: white;
 }
 
 /* ===== GENERATION CARDS ===== */
@@ -93,19 +98,39 @@ body {
   box-shadow: 0px 4px 12px rgba(0,0,0,.2);
   transition: .3s;
   margin-bottom: 20px;
+  border-left: 6px solid #00aaff;
 }
 
 .gen:hover {
   transform: translateX(10px);
+  background: #e3f0ff;
+  border-left-color: #004e92;
 }
 
 .gen h2, .gen h3 {
   margin-top: 0;
+  color: #004e92;
+}
+
+.gen h3 a {
+  color: #004e92;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: .3s;
+}
+
+.gen h3 a:hover {
+  border-bottom-color: #00aaff;
 }
 
 .gen ul {
   margin-bottom: 0;
   padding-left: 20px;
+  color: #1e2a3a;
+}
+
+.gen li {
+  margin-bottom: 4px;
 }
 
 /* ===== ADDITIONAL SECTIONS ===== */
@@ -113,9 +138,42 @@ body {
 .pioneer, .news, .contact {
   margin-top: 40px;
   padding: 20px;
-  background: #fafcff;
+  background: #f0f7ff;
   border-radius: 12px;
   box-shadow: 0px 3px 10px rgba(0,0,0,.18);
+  border-left: 6px solid #00aaff;
+}
+
+.pioneer h2, .news h2, .contact h2 {
+  color: #004e92;
+}
+
+.pioneer a, .news a, .contact a {
+  color: #004e92;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px dotted #00aaff;
+}
+
+.pioneer a:hover, .news a:hover, .contact a:hover {
+  color: #00aaff;
+  border-bottom-style: solid;
+}
+
+blockquote {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 4px solid #00aaff;
+  margin: 0;
+  color: #1e2a3a;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #00aaff, transparent);
+  margin: 30px 0;
 }
 
 </style>
@@ -143,6 +201,21 @@ body {
 Click on any generation heading to access its overview page. Detailed contents are listed below each heading for reference.
 
 <!-- GENERATION CARDS (DETAILED LISTS) -->
+
+<!-- Pre-SGH genration -->
+<div class="gen">
+  <h3><a href="/pre-sgh/" target="_blank">Pre-SGH genration</a></h3>
+  <ul>
+    <li>introduction</li>
+    <li>Chapter 1: Constraint-Induced Concentration in High-Dimensional Function Spaces:<br>Geometric Regularities and Entropy Maximization</li>
+    <li>Chapter 2: Empirical Clustering Patterns in Binary Partition Ratios of<br>Parametric Functions: A Large-Scale Computational Study</li>
+    <li>Chapter 3: Attractor Networks via Constraint-Induced Concentration<br>in High-Dimensional Function Spaces</li>
+    <li>Chapter 4: Quantum Partition Ratios: Born-Rule Observables<br>for Wavefunction Nodal Asymmetry, Eigenstate Geometry, and Experimental Signatures</li>
+    <li>Chapter 5: Constraint-Induced Necessity:<br>A Philosophical Framework for Contextual Mathematical Structures</li>
+    <li>Chapter 6: Partition Ratios Across Mathematical and Physical Systems:<br>A Comprehensive Review and Cross-Disciplinary Synthesis</li>
+    <li>conclusion</li>
+  </ul>
+</div>
 
 <div class="gen">
   <h3><a href="/primary/" target="_blank">primery</a></h3>
