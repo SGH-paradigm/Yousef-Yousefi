@@ -6,6 +6,7 @@ url: "https://sgh-paradigm.github.io"
 theme: minima
 
 header_pages:
+  - blog.md
   - Home.md
   - table-of-contents.md
   - contact.md
