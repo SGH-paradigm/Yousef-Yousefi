@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Science Generalization Hypothesis
+title: Home
 nav_order: 1
 permalink: /
 ---
