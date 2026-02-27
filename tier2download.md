@@ -1,29 +1,32 @@
 ---
 layout: default
-title: Tier 2 – Foundations
-permalink: /tier2/
+title: Primery Generation
+permalink: /primary/
 ---
 
-# Tier 2 – Foundations (115 pages PDF)
+# 📘 Primery Generation
 
-**Suggested price: 8 USD**  
-(pay what you want – even small amounts help support my family & research!)
+**All materials are free** – no payment required.
 
-**This tier includes:**
-- Chapter 0 – Fixed-Point Necessity
-- Chapter 1 – Master Equation
-- Additional notes and diagrams
+This foundational layer includes the introductory texts that set the stage for the entire Science Generalization Hypothesis.
 
-After payment you will receive the download link via email automatically (instant delivery).  
+## Contents
 
-If any issue (no email arrives), contact me at yousefyousefi606@gmail.com with your transaction ID or proof.
+- **Preface** – Overview of the SGH framework, its motivation, and scope.  
+  [📄 Read / Download Preface →](preface/)  
+  *(Direct link to preface page or PDF)*
 
-<!-- NOWPayments White Payment Button -->
-<a href="https://nowpayments.io/payment/?iid=6420922335&source=button" target="_blank" rel="noreferrer noopener">
-  <img src="https://nowpayments.io/images/embeds/payment-button-white.svg" alt="Cryptocurrency & Bitcoin payment button by NOWPayments">
-</a>
+- **Introduction** – A gentle entry into the key concepts and the journey ahead.  
+  [📄 Read / Download Introduction →](introduction/)  
+  *(Direct link to introduction page or PDF)*
 
-<small>Supports BNB (BSC), USDT (TRC20), BTC, ETH and 300+ other cryptocurrencies.  
-Payment is secure and processed by NOWPayments. Minimum amount may apply depending on coin.</small>
+---
+
+### 💬 Questions or Feedback?
+
+If you have any questions or encounter issues, feel free to contact me at  
+📧 [yousefyousefi191@gmail.com](mailto:yousefyousefi191@gmail.com)
+
+---
 
 [← Back to Home](/)
