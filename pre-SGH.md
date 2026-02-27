@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pre-SGH Genration
-permalink: /pre-sgh/
+permalink: /pre-SGH/
 ---
 
 # 📘 Pre-SGH Genration
