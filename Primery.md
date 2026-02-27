@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Primery Generation
-nav_order: 2
+nav_order: 8
 ---
 
 # 📘 Primery Generation
