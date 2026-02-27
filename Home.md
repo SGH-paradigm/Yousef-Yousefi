@@ -445,7 +445,7 @@ hr {
 
     <!-- Pre-SGH genration -->
     <div class="gen">
-      <h3><a href=" pre-sgh/" target="_blank">Pre-SGH Genration</a></h3>
+<h3><a href="pre-SGH/" target="_blank">Pre-SGH Genration</a></h3>
       <ul>
         <li>introduction</li>
         <li>Chapter 1: Constraint-Induced Concentration in High-Dimensional Function Spaces:<br>Geometric Regularities and Entropy Maximization</li>
