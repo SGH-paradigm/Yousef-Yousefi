@@ -13,7 +13,7 @@ Welcome to the official blog of the Science Generalization Hypothesis. Here I'll
 ## 📌 Latest Posts
 
 {% for post in site.posts %}
-- **{{ post.date | date: "%B %d, %Y" }} – [{{ post.title }}]({{ post.url }})**
+- **{{ post.date | date: "%B %d, %Y" }} – [{{ post.title }}]({{ post.url | relative_url }})**
 {% endfor %}
 
 ---
