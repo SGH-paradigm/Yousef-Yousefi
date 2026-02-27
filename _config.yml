@@ -1,6 +1,6 @@
 title: "Science Generalization Hypothesis (SGH)"
 description: "Official website of Yousef Yousefi's lifelong interdisciplinary scientific research."
-baseurl: "/Yousef-Yousefi" # Keep this if your GitHub repo is named Yousef-Yousefi
+baseurl: "/Yousef-Yousefi"
 url: "https://sgh-paradigm.github.io"
 
 theme: minima
