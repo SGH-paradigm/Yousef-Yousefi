@@ -12,9 +12,9 @@ Welcome to the official blog of the Science Generalization Hypothesis. Here I'll
 
 ## 📌 Latest Posts
 
-*No posts yet – check back soon!*
+- **[What is the Science Generalization Hypothesis (SGH)?](/blog/what-is-sgh/)** – March 1, 2025
 
-*(Future posts will appear here with dates and summaries.)*
+*(More posts coming soon)*
 
 ---
 
