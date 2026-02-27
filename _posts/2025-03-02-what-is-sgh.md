@@ -2,7 +2,6 @@
 layout: default
 title: "What is the Science Generalization Hypothesis (SGH)?"
 date: 2025-03-02
-permalink: /blog/what-is-sgh/
 ---
 
 # What is the Science Generalization Hypothesis (SGH)?
