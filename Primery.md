@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Tier 2 - Foundations of SGH"
-permalink: /tier2/
+title: "Primery"
+permalink: /Primery/
 ---
 
-# 📘 Tier 2: Foundations of the Science Generalization Hypothesis
+# 📘 Primery: Foundations of the Science Generalization Hypothesis
 
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
   <p style="font-size: 1.2em;"><strong>Suggested price: $5</strong> (pay what you want – you can pay less or more)</p>
