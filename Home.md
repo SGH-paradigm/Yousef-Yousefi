@@ -14,6 +14,22 @@ body {
   color: #1e2a3a;
 }
 
+/* ===== EXPAND THE MAIN CONTAINER ===== */
+/* Override Minima's default wrapper width */
+.wrapper {
+  max-width: 1400px !important;
+  margin: 0 auto !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+  width: 100% !important;
+}
+
+/* Ensure the content area uses full width */
+.page-content {
+  padding: 30px 0;
+  width: 100%;
+}
+
 /* ===== SGH TITLE HERO ===== */
 
 .hero {
@@ -94,17 +110,18 @@ body {
   display: flex;
   gap: 30px;
   margin-top: 20px;
+  width: 100%;
 }
 
-/* Sidebar styles */
+/* Sidebar styles - slightly wider now */
 .profile-sidebar {
-  flex: 0 0 280px; /* fixed width on large screens */
+  flex: 0 0 320px; /* increased from 280px */
   background: #f0f7ff;
   border-radius: 14px;
   padding: 25px 20px;
   box-shadow: 0px 4px 12px rgba(0,0,0,.2);
   border-left: 6px solid #00aaff;
-  align-self: start; /* prevent stretching */
+  align-self: start;
 }
 
 .profile-image {
@@ -149,10 +166,10 @@ body {
   margin-bottom: 15px;
 }
 
-/* Main content area */
+/* Main content area - takes remaining space */
 .main-content {
-  flex: 1; /* take remaining space */
-  min-width: 0; /* prevent overflow */
+  flex: 1;
+  min-width: 0;
 }
 
 /* Responsive: stack on mobile */
@@ -163,6 +180,10 @@ body {
   .profile-sidebar {
     flex: auto;
     width: 100%;
+  }
+  .wrapper {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
   }
 }
 
