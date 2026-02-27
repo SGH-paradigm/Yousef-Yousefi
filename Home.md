@@ -399,18 +399,18 @@ hr {
 <div class="hero">
   <div class="herotitle">Science Generalization Hypothesis (SGH)</div>
   <div class="subtitle">Toward a Unified Ontology of Reality<br>Ontology • Mathematics • Physics • Consciousness</div>
-  <a href="/preface/" class="bigbtn" target="_blank">Start Free Materials</a>
-  <a href="/paradoxes/" class="bigbtn" target="_blank">Solved Paradoxes</a>
-  <a href="/support/" class="bigbtn" target="_blank">Support Mission</a>
+  <a href="preface/" class="bigbtn" target="_blank">Start Free Materials</a>
+  <a href="paradoxes/" class="bigbtn" target="_blank">Solved Paradoxes</a>
+  <a href="support-the-mission/" class="bigbtn" target="_blank">Support Mission</a>
 </div>
 
 <!-- TOP NAVIGATION -->
 <div class="topnav">
-  <a class="tab" href="/table-of-content/" target="_blank">📚 Table of Contents</a>
-  <a class="tab" href="/contact/" target="_blank">📬 Contact</a>
-  <a class="tab" href="/support/" target="_blank">❤️ Support the Mission</a>
-  <a class="tab" href="/feedback/" target="_blank">💡 Feedback</a>
-  <a class="tab" href="/license/" target="_blank">⚖️ License</a>
+  <a class="tab" href="table-of-content/" target="_blank">📚 Table of Contents</a>
+  <a class="tab" href="contact/" target="_blank">📬 Contact</a>
+  <a class="tab" href="support-the-mission/" target="_blank">❤️ Support the Mission</a>
+  <a class="tab" href="feedback/" target="_blank">💡 Feedback</a>
+  <a class="tab" href="license/" target="_blank">⚖️ License</a>
 </div>
 
 <!-- PROFILE SIDEBAR + MAIN CONTENT -->
@@ -418,8 +418,7 @@ hr {
   <!-- LEFT SIDEBAR: Author profile -->
   <aside class="profile-sidebar">
     <div class="profile-image">
-      <!-- Replace with your actual image path -->
-      <img src="/assets/images/profile.jpg" alt="Yousef Yousefi">
+      <img src="assets/images/profile.jpg" alt="Yousef Yousefi">
     </div>
     <div class="profile-name">Yousef Yousefi</div>
     <div class="profile-title">Independent Researcher</div>
@@ -437,8 +436,8 @@ hr {
 
     <!-- GENERATION CARDS (DETAILED LISTS) -->
     <div class="gen">
-<h3><a href="primary/" target="_blank">Primery</a></h3>
-<ul>
+      <h3><a href="primary/" target="_blank">Primery</a></h3>
+      <ul>
         <li>preface</li>
         <li>introduction</li>
       </ul>
@@ -446,7 +445,7 @@ hr {
 
     <!-- Pre-SGH genration -->
     <div class="gen">
-      <h3><a href=" pre-sgh/" target="_blank">Pre-SGH Genration</a></h3>
+      <h3><a href="pre-SGH/" target="_blank">Pre-SGH Genration</a></h3>
       <ul>
         <li>introduction</li>
         <li>Chapter 1: Constraint-Induced Concentration in High-Dimensional Function Spaces:<br>Geometric Regularities and Entropy Maximization</li>
@@ -460,7 +459,7 @@ hr {
     </div>
 
     <div class="gen">
-      <h3><a href="/first-gen/" target="_blank">First SGH Genration</a></h3>
+      <h3><a href="first-gen/" target="_blank">First SGH Genration</a></h3>
       <ul>
         <li>introduction</li>
         <li>Chapter 1: Foundations of SGH</li>
@@ -475,7 +474,7 @@ hr {
     </div>
 
     <div class="gen">
-      <h3><a href="/second-gen/" target="_blank">Second Genration</a></h3>
+      <h3><a href="second-gen/" target="_blank">Second Genration</a></h3>
       <ul>
         <li>Sience Genralization Hypothese road map toward unification intoduction:<br>Toward Uinification</li>
         <li>SGH-Matematics Recounstrction : <br>A-1-1:</li>
@@ -500,7 +499,7 @@ hr {
     </div>
 
     <div class="gen">
-      <h3><a href="/third-gen/" target="_blank">Tird Genration</a></h3>
+      <h3><a href="third-gen/" target="_blank">Tird Genration</a></h3>
       <ul>
         <li>toward Genralization and Unification</li>
         <li>Triadic</li>
@@ -532,7 +531,7 @@ hr {
     </div>
 
     <div class="gen">
-      <h3><a href="/fourth-gen/" target="_blank">Forth Genration</a></h3>
+      <h3><a href="fourth-gen/" target="_blank">Forth Genration</a></h3>
       <ul>
         <li>paradox</li>
         <li>Octactan SGH</li>
@@ -563,7 +562,7 @@ hr {
     <li><strong>Next‑Gen Discovery Tools:</strong> Detectors sensitive to χ‑transitions and experiments to reveal hidden structures in the cosmos.</li>
     <li><strong>Toward “UFO” Technology:</strong> Engineering gravity and inertia by locally shifting χ – a path to revolutionary vehicles.</li>
   </ul>
-  <p>👉 <a href="/pioneer/" target="_blank">Read More</a></p>
+  <p>👉 <a href="pioneer/" target="_blank">Read More</a></p>
 </div>
 
 <!-- LATEST NEWS -->
@@ -582,7 +581,7 @@ hr {
 <div class="contact">
   <h2>📬 Get in Touch</h2>
   <p>Feel free to reach out for discussions, collaborations, or questions.<br>
-  You can find all contact options on the <a href="/contact/" target="_blank">Contact</a> page.</p>
+  You can find all contact options on the <a href="contact/" target="_blank">Contact</a> page.</p>
 </div>
 
 <hr>
