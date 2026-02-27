@@ -28,4 +28,4 @@ SGH resolves long-standing paradoxes in physics and mathematics, unifies abstrac
 
 *This is the first in a series of posts exploring the axioms, mechanisms, and implications of SGH. Stay tuned!*
 
-[← Back to Blog](/blog/)
+[← Back to Blog](/Yousef-Yousefi/blog/)
